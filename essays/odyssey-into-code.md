@@ -11,7 +11,10 @@ labels:
   - StackOverflow
 ---
 
+<img width="150px" class="rounded float-start pe-4" src="https://miro.medium.com/v2/resize:fit:1200/1*LyZcwuLWv2FArOumCxobpA.png">
+
 ## Early Beginnings with CS
+
 
 Before becoming an Information and Computer Sciences (ICS) major at the University of Hawaii at Manoa, I had taken one class in high school that allowed me to undertake several small projects that tested my relatively limited knowledge of programming at the time. However, much of these projects featured work in which our instructor did not allow us to get acclimated with one specific programming language. Instead, he gave us projects, assigned us in groups, and required us to produce a solution to the problem space.
 
@@ -23,6 +26,7 @@ Notably, these undertakings provided us an environment to work with code, but no
 In the Fall semester of 2021, I began my journey as an undergraduate at UH Manoa. ICS111 was the first class that formally introduced me to a programming language: Java. It was the first language I was formally introduced to, with further elaboration on syntax. Learning JavaScript was interesting since I had no prior experience using it. With this, freeCodeCamp’s basic exercises helped refresh ideas from Java while learning JavaScript. 
 
 Overall, I think that JavaScript is simpler to read and interpret compared to other languages. The less strict structure of the language, and particularly without the need for type declarations stood out to me since it made reading and writing code feel more fluid. From a software engineering perspective, I think that JavaScript is a good programming language, although it has drawbacks depending on where it is applied. Its syntax simplicity is a standout feature, but having a less strict structure for coding may lead to difficulties in catching errors and in computationally intensive tasks. 
+
 
 ## An Athletic Pedagogy
 
