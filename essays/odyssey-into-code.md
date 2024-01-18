@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "An Ongoing Odyssey into the Realm of Code"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2023-01-17
 published: true
 labels:
   - Questions
