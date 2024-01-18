@@ -6,9 +6,9 @@ title: "An Odyssey into a Realm of Code"
 date: 2023-01-17
 published: true
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - JavaScript
+  - Java
+  - Athletic Pedagogy
 ---
 
 <img width="175px" class="rounded float-start pe-4" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/79332/coding-clipart-md.png">
