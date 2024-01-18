@@ -27,7 +27,7 @@ In the Fall semester of 2021, I began my journey as an undergraduate at UH Manoa
 
 Overall, I think that JavaScript is simpler to read and interpret compared to other languages. The less strict structure of the language, and particularly without the need for type declarations stood out to me since it made reading and writing code feel more fluid. From a software engineering perspective, I think that JavaScript is a good programming language, although it has drawbacks depending on where it is applied. Its syntax simplicity is a standout feature, but having a less strict structure for coding may lead to difficulties in catching errors and in computationally intensive tasks. 
 
-
+<img width="150px" class="rounded float-start pe-4" src="https://bluebrain.net/wp-content/uploads/2022/01/bb-logo-bulb-wh3.png">
 ## An Athletic Pedagogy
 
 An athletic approach in learning class content through WODs (Workout of the Day) has been beneficial for assessing what I have learned so far in the course. Though I have been struggling with the practice WODs, I know that establishing a rhythm and maintaining consistency will eventually lead to better success with future assessments and projects. Ultimately, the time-constrained environment has led to increased pressure, but has allowed for a way to find solutions quicker and in an efficient manner. I hope to see continued and improved success with this approach as the semester progresses. 
