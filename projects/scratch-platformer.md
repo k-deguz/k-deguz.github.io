@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: C:\Users\Ken\OneDrive\Desktop\level 4.PNG
-title: "Weight Loss Platformer"
+image: 
+title: "Scratch MIT Platformer"
 date: 2018
 published: true
 labels:
