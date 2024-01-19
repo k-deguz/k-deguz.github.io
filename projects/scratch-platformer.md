@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://github.com/k-deguz/k-deguz.github.io/blob/main/level%204.PNG?raw=true
+image: level 4.PNG
 title: "Scratch MIT Platformer"
 date: 2018
 published: true
