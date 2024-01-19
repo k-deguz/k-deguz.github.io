@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "An Odyssey into a Realm of Code"
+title: "A JavaScript Odyssey"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-17
 published: true
