@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: hhd.PNG
-title: "Hawai'i History Day State Fair"
+title: "Hawai'i History Day"
 date: 2017
 published: true
 labels:
