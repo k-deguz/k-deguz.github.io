@@ -1,43 +1,40 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kenneth de Guzman",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
+    "picture": "https://github.com/k-deguz.png",
+    "email": "kdeguz@hawaii.edu",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "website": "https://k-deguz.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "91-1160 Kamakana St", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "k-deguz", "url": "http://github.com/k-deguz" },
+      { "network": "linkedin", "username": "kdeguz", "url": "http://linkedin.com/in/kenneth-de-guzman-6768282a9" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Game Design" },
+    { "name": "Machine Learning" },
+    { "name": "Web Development" },
+    { "name": "Software Engineering" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2021-08-23",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,16 +42,22 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Hawai'i Nikkei Historical Editorial Board",
+      "date": "2017",
+      "awarder": "Hawai'i History Day State Fair",
+      "summary": "Awarded to students with oustanding research projects during the 2017 Hawai'i History Day State Fair. My paper detailed the life of Frederick Douglass and his pivotal role with the Abolitionist Movement with the HHD theme of 'Taking a Stand."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "2021-Present",
+      "awarder": "University of Hawai'i at Manoa",
+      "summary": "Undergraduate students are awarded the Dean's List distinction if they earn a grade point average of 3.50 or higher during a semester with 12+ credits."
+    },
+     {
+      "title": "Academic Honors, Summa Cum Laude",
+      "date": "2017-2021",
+      "awarder": "James Campbell High School",
+      "summary": "Honors Recognition Certificate awarded to students who achieved the requirements for a High School diploma with a cumulative GPA of 3.80 or higher."
     }
   ],
   "references": [
