@@ -21,4 +21,4 @@ Hawai’i History Day is an annually recurring competition with fairs being held
 ## An Unexpected Surprise
 One school morning, I was unexpectedly notified by my history instructor that I had won our school contest for History Day with the research paper category. Subsequently, I attended the Leeward District Fair for a chance to progress to the State competition, where I won as well. Although I was not able to advance to Nationals, this experience was memorable in that I got to encounter different hurdles and acquired knowledge with how to approach a task with increased levels of trials. For this, I was awarded the Hawai’i Nikkei Historical Editorial Board for my paper, and particularly for the extensive research work that was provided in the annotated bibliography section of the project. 
 
-Unfortunately, I have since lost access to my middle school account that stored my paper and am unable to share a link for it. 
+Here is a [link](https://github.com/k-deguz/k-deguz.github.io/blob/main/img/hhd/DEGUZMAN_KENNETH_JUNIOR_STATE_FAIR.pdf) to the essay. 
