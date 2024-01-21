@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: hhd.PNG
+image: img/hhd/hhd.PNG
 title: "Hawai'i History Day"
 date: 2017
 published: true
