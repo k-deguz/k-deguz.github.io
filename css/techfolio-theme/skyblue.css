@@ -10,7 +10,7 @@
   --tf-blue2: #1b6fa9;
   --tf-blue3: #2f8ed0;
   --tf-blue4: #bde3f0;
-  --bs-font-sans-serif: "Garamond", sans-serif; /* Updated to Garamond */
+  --bs-font-sans-serif: "Frutiger", sans-serif; /* Updated to Frutiger */
   --bs-link-color: var(--tf-blue1);
   --tf-pill-bg: var(--tf-blue3);
   --tf-icon-fill: var(--tf-blue1);
@@ -22,7 +22,7 @@
 
 h1, h2, h3, h4, h5 {
   color: var(--tf-blue1);
-  font-family: "Garamond", sans-serif; /* Updated to Garamond */
+  font-family: "Frutiger", sans-serif; /* Updated to Frutiger */
 }
 
 /* Format social media icons */
