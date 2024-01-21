@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: level 4.PNG
+image: img/scratch-game/level 4.PNG
 title: "Scratch MIT Platformer"
 date: 2018
 published: true
@@ -16,7 +16,7 @@ summary: "My team developed a platformer game on Scratch MIT that aims to help t
 ## Enter Code
 Scratch is a high-level block-based visual programming language developed by the MIT Media Lab and operates on a website with an educational focus for children as an introductory tool to understand code. During high school, I took a computer science class, which marked my initial experience in the world of programming. Our instructor briefly introduced us to the Scratch environment and provided us free reign over what type of deliverable we could produce with our partner for the first assignment. The task was profoundly plain: “design a game that solves a problem.” 
 
-<img width="200px" class="rounded float-start pe-4" src="https://github.com/k-deguz/k-deguz.github.io/blob/main/title.PNG?raw=true">
+<img width="200px" class="rounded float-start pe-4" src="https://github.com/k-deguz/k-deguz.github.io/blob/main/img/scratch-game/title.PNG">
 
 ## Game Development
 For this project, we decided to create a game that addressed the issue of an unhealthy diet. The player character is a retro sprite character appearing as an overweight individual. Here, I was the lead programmer responsible for player movement and level designs. The goal of the game is to get through all ten levels of the game. This is made possible by reaching the fruits and vegetables of each level to progress through the next one. However, if the player touches a red region of a level or a junk food, they automatically fail the entire game, and would be routed back to the main menu. 
