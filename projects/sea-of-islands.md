@@ -23,5 +23,6 @@ In an expansion project, each team member was responsible for describing an algo
 ## Choice of Algorithm
 I chose to use a modified version of a Fruchterman-Reingold algorithm as a way of minimizing the number of edge crossings within the graph. With this, it will iteratively look to adjust the node and edge positions to create a less-jumbled mess of a layout. Here, the travel times are the edge weights and considers directional forces in order to better represent the distribution of both resources and people. The algorithm stops when the changes in reducing the amount of overlaps become slower, and iteratively adjusts the positions of the islands depending on the nature of forces between the islands. Ulimately, I decided on using F-R over Kamada-Kawai since the latter is more effcient with large datasets, is faster, and easier to implement given the problem space over K-K. 
 
-Here is a [link](https://github.com/k-deguz/k-deguz.github.io/blob/main/img/sea-network/Final%20Write%20Up%20ICS%20311%20(1).pdf) to the essay. 
+Here is a [link](https://raw.githubusercontent.com/k-deguz/k-deguz.github.io/main/img/sea-network/Final%20Write%20Up%20ICS%20311%20(1).pdf) to the essay.
+ 
 
