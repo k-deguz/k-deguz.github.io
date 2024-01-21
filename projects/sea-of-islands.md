@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: island.png
+image: img/sea-network/island.png
 title: "Network of Routes: Sea of Islands"
 date: 2023
 published: true
