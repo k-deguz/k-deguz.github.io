@@ -1,30 +1,29 @@
 ---
 layout: project
 type: project
-image: img/sea-network/island.png
-title: "Network of Routes: Sea of Islands"
-date: 2023
+image: img/hhd/hhd.PNG
+title: "Hawai'i History Day"
+date: 2017
 published: true
-labels: 
-  - Algorithms
-  - Weighted Graphs
-  - Fruchterman-Reingold
-summary: "I was part of a team that used algorithms to plan a network of routes that efficiently distributed goods and facilitated travel among the islands in the Polynesian Triangle in ICS 311."
+labels:
+  - State Fair
+  - Research
+  
+summary: "I participated in the Hawai'i History Day State Fair and was awarded the Hawai'i Nikkei Historical Editorial Board for my research paper. It detailed the inspiring life of Frederick Douglass and the pivotal role he played for the Abolitionist Movement in ending US slavery."
 ---
-<div style="overflow: hidden;">
-  <img width="300px" class="rounded float-start pe-4" src="https://www.boost.org/doc/libs/1_53_0/libs/graph/doc/figs/embedding_illustration.png"> 
-</div>
-
-## Planarity with Sea of Islands
-The initial problem space tasked our group with creating a system of travel paths to various islands within the Polynesian Triangle. For this, we represented the Sea of Islands with a directed, weighted graph. Here, each island is a node, and the routes that corresponded to different travel times were the edges. Since each island has unique traits such as population resources, educational material, distinct travel experiences, and native items, our group's primary concern was to find ways in which to circulate these types of needs as well as the fluid movement of people among the Sea of Islands. 
-
-In an expansion project, each team member was responsible for describing an algorithm that amplified the original submission to further improve the quality of life and shared resources within the Sea of Islands. My section discussed the issue of looking at the planarity of the Sea of Islands as a graph, with the main concern being the optimization of routes so that the edges connecting the nodes do not overlap as much as possible. Doing this allows the representation of the islands to look visually more appealing and simpler to understand. Even with a wide range of connections, the graph would be more user-friendly and easier to interpret, especially with the supplying process. 
 
 <div style="overflow: hidden;">
-  <img width="300px" class="rounded float-start pe-4" src="https://www.researchgate.net/publication/301217160/figure/fig9/AS:359956277678080@1462831674860/Force-directed-layout-Fruchterman-Reingold-algorithm-of-an-example-ground-truth-network.png"> 
+  <img width="300px" class="rounded float-start pe-4" src="https://hihumanities.org/wp-content/uploads/2023/10/HHD-Banner-101623.png">
 </div>
 
-## Choice of Algorithm
-I chose to use a modified version of a Fruchterman-Reingold algorithm as a way of minimizing the number of edge crossings within the graph. With this, it will iteratively look to adjust the node and edge positions to create a less-jumbled mess of a layout. Here, the travel times are the edge weights and consider directional forces in order to better represent the distribution of both resources and people. The algorithm stops when the changes in reducing the amount of overlaps become slower, and iteratively adjusts the positions of the islands depending on the nature of forces between the islands. Ultimately, I decided on using F-R over Kamada-Kawai since the latter is more efficient with large datasets, is faster, and easier to implement given the problem space over K-K. 
+## Competition and Hurdles
+Hawai’i History Day is an annually recurring competition with fairs being held in different districts and schools throughout the state. Winners of the Hawai’i District Fair would advance to Nationals for an opportunity to claim special prizes and bragging rights. In 2017, the theme for History Day was ‘Taking a Stand,’ which outlined various topics surrounding influential figures that took action against oppression that they could no longer bear with. While doing research, Frederick Douglass stood out to me as I found that his life story epitomized the central message of the given theme. 
 
-Here is a [link](https://raw.githack.com/k-deguz/k-deguz.github.io/main/img/sea-network/Final%20Write%20Up%20ICS%20311%20(1).pdf) to the essay.
+<div style="overflow: hidden;">
+  <img width="300px" class="rounded float-start pe-4" src="https://static.wixstatic.com/media/7cb4d7_ed70472147fb471a9c29c02da5e9a569~mv2.png/v1/fill/w_961,h_968,al_c/7cb4d7_ed70472147fb471a9c29c02da5e9a569~mv2.png">
+</div>
+
+## An Unexpected Surprise
+One school morning, I was unexpectedly notified by my history instructor that I had won our school contest for History Day with the research paper category. Subsequently, I attended the Leeward District Fair for a chance to progress to the State competition, where I won as well. Although I was not able to advance to Nationals, this experience was memorable in that I got to encounter different hurdles and acquired knowledge with how to approach a task with increased levels of trials. For this, I was awarded the Hawai’i Nikkei Historical Editorial Board for my paper, and particularly for the extensive research work that was provided in the annotated bibliography section of the project. 
+
+Here is a [link](https://raw.githack.com/k-deguz/k-deguz.github.io/main/img/hhd/DEGUZMAN_KENNETH_JUNIOR_STATE_FAIR.pdf) to the essay.
