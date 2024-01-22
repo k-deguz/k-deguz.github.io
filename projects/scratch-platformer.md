@@ -15,7 +15,7 @@ summary: "My team developed a platformer game on Scratch MIT that aims to help t
   <img width="350px" class="rounded" src="https://miro.medium.com/v2/resize:fit:1400/0*FI4oCrDhbyc-HQ-Z.png">
 </div>
 
-## Enter Code
+## Where do I start?
 
 Scratch is a high-level block-based visual programming language developed by the MIT Media Lab and operates on a website with an educational focus for children as an introductory tool to understand code. During high school, I took a computer science class, which marked my initial experience in the world of programming. Our instructor briefly introduced us to the Scratch environment and provided us free reign over what type of deliverable we could produce with our partner for the first assignment. The task was profoundly plain: “design a game that solves a problem.” 
 
