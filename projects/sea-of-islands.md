@@ -13,7 +13,7 @@ summary: "I was part of a team that used algorithms to plan a network of routes 
 ---
 
 <div class="text-center">
-  <img width="250px" class="rounded" src="https://www.boost.org/doc/libs/1_53_0/libs/graph/doc/figs/embedding_illustration.png"> 
+  <img width="275px" class="rounded" src="https://www.boost.org/doc/libs/1_53_0/libs/graph/doc/figs/embedding_illustration.png"> 
 </div>
 
 ## Planarity with Sea of Islands
@@ -23,7 +23,7 @@ The initial problem space tasked our group with creating a system of travel path
 In an expansion project, each team member was responsible for describing an algorithm that amplified the original submission to further improve the quality of life and shared resources within the Sea of Islands. My section discussed the issue of looking at the planarity of the Sea of Islands as a graph, with the main concern being the optimization of routes so that the edges connecting the nodes do not overlap as much as possible. Doing this allows the representation of the islands to look visually more appealing and simpler to understand. Even with a wide range of connections, the graph would be more user-friendly and easier to interpret, especially with the supplying process. 
 
 <div class="text-center">
-  <img width="250px" class="rounded" src="https://www.researchgate.net/publication/301217160/figure/fig9/AS:359956277678080@1462831674860/Force-directed-layout-Fruchterman-Reingold-algorithm-of-an-example-ground-truth-network.png"> 
+  <img width="200px" class="rounded" src="https://www.researchgate.net/publication/301217160/figure/fig9/AS:359956277678080@1462831674860/Force-directed-layout-Fruchterman-Reingold-algorithm-of-an-example-ground-truth-network.png"> 
 </div>
 
 ## Choice of Algorithm
