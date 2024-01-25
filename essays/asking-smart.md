@@ -13,4 +13,12 @@ labels:
 
 ## "There's no such thing as a stupid question!"
 
-Growing up, this was such a common 
+Growing up, 
+
+
+## What is a smart question? 
+
+
+
+
+## Not so smart questions? 
