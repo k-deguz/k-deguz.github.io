@@ -46,7 +46,7 @@ The provided 'question' is an example of this issue. The user's post lacks signi
 
 ## How are smart questions proposed?  
 
-[StackOverflow - SmartQuestion](https://stackoverflow.com/questions/77097920/middleware-for-next-auth-and-i18n-next-js-13-with-app-router)
+[StackOverflow - Smart Question](https://stackoverflow.com/questions/77097920/middleware-for-next-auth-and-i18n-next-js-13-with-app-router)
 
 Eric Raymond says that a smart question must be both precise and informative. The question given above is an example of this. The author of the post started by describing the goal they had in mind, as well as what steps they have taken so far in order to get to this point of their inquiry. Furthermore, they include their progress and thought process concerning the code of their program. Although brief, the user was able to discuss their problem explcitly and was able to generate several replies that help answer their question. Notably, the post includes a follow-up note, which aligns with Raymond's advice on his article. 
 
