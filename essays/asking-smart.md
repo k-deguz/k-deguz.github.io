@@ -11,9 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<div class="text-center">
-  <img width="275px" class="rounded" src="https://theprimaryhead.files.wordpress.com/2017/10/screenshot_20171015-0124451495471234.png?w=994"> 
-</div>
+<img width="275px" class="rounded" src="https://theprimaryhead.files.wordpress.com/2017/10/screenshot_20171015-0124451495471234.png?w=994"> 
 
 ## "There's no such thing as a stupid question!"
 
