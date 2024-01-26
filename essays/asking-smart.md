@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="175px" class="rounded float-start pe-4" src="https://theprimaryhead.files.wordpress.com/2017/10/screenshot_20171015-0124451495471234.png?w=994">
+<img width="200px" class="rounded float-start pe-4" src="https://theprimaryhead.files.wordpress.com/2017/10/screenshot_20171015-0124451495471234.png?w=994">
 
 ## "There's no such thing as a stupid question!"
 
@@ -26,23 +26,24 @@ To ask smart questions, it is important to be mindful of what the opposite term 
 
 This is an example of a [not so smart question](https://stackoverflow.com/questions/77884605/i-have-linked-the-javascript-code-to-my-html-code-but-the-script-doesnt-get-app) on StackOverflow. 
 
-*I have linked the JavaScript code to my HTML code, but the script doesn't get applied.*
+  *I have linked the javascript code to my html code, but the script doesn't get applied.*
 
-*Hey, I'm a complete beginner at JavaScript.*
+  *Hey, I'm a complete beginner at javascript.*
 
-*I have generated codes for a model website that uses HTML, CSS, and JavaScript with ChatGPT.*
+  *I have generated codes for a model website that uses html, cSS, and javascript with chat gpt.*
 
-*I have properly linked my HTML code with CSS and JavaScript, but the effects that I anticipate from my JavaScript don't get applied to the HTML code.*
+  *I have properly linked my html code with css and javascript, but the effects that I anticipate from my javascript don't  
+   get applied to the html code.*
 
-*Can you review my code and tell me why?*
+  *Can you review my code and tell me why?*
 
-*[GitHub Repository](https://github.com/ilwoongchoi/javascripttest)*
+  *https://github.com/ilwoongchoi/javascripttest*
 
-*Above is my GitHub repository for my model project.*
+  *above is my github repository for my model project.*
 
-*Thanks*
+  *Thanks*
 
-The provided 'question' is an example of this issue. The user's post lacks significant information as to what they are even trying to accomplish. It mentions that they have used HTML, CSS and JavaScript, but fail to mention what exactly their model website is trying to do. This lack of attention-to-detail is costly, since it makes it more challenging for potential helpers to provide meaningful and targeted responses. As a result, the post has currently been viewed 39 times, has no replies, and was downvoted twice. Instead of their initial request to simply reviewing their code, the user should have provided useful background information that allows other people to clue in on what their program is trying to do. In a guideline article about asking 'smart questions,' Eric Raymond advised that the person asking the question must be explicit with what they want the responders to do to help. Doing this results in an increased likelihood of getting a useful response since it poses less of a time commitment to respondents. Additionally, the user failed to describe the goal they had in mind, and instead chose to give a link to their GitHub asking for others to review their code. Evidently, this has not been well-received as demonstrated by the downvotes of their post. 
+The provided 'question' is an example of this issue. The user's post lacks significant information as to what they are even trying to accomplish. It mentions that they have used HTML, CSS and JavaScript, but fail to mention what exactly their model website is trying to do. This lack of attention-to-detail is costly, since it makes it more challenging for potential helpers to provide meaningful and targeted responses. As a result, the post has currently been viewed 39 times, has no replies, with 4 downvotes. Instead of their initial request to simply reviewing their code, the user should have provided useful background information that allows other people to clue in on what their program is trying to do. In a guideline article about asking 'smart questions,' Eric Raymond advised that the person asking the question must be explicit with what they want the responders to do to help. Doing this results in an increased likelihood of getting a useful response since it poses less of a time commitment to respondents. Additionally, the user failed to describe the goal they had in mind, and instead chose to give a link to their GitHub asking for others to review their code. Evidently, this has not been well-received as demonstrated by the downvotes of their post. 
 
 
 ## How are smart questions proposed?  
@@ -58,4 +59,6 @@ Eric Raymond says that a smart question must be both precise and informative. Th
 
 
 ## Why should we follow in these footsteps?
+
+
 The ability to ask smart questions is not only a valuable knack to have in the field of software engineering, but in various facets of growth as an indivdiual as well. The way in which a question is proposed is a major aim for improvement since it could mean the difference between receiving meaningful responses to a query, compared to the disdainful looks that a poorly written question may get. 
