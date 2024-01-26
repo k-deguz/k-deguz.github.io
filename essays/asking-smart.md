@@ -15,6 +15,7 @@ labels:
   <img width="275px" class="rounded" src="https://theprimaryhead.files.wordpress.com/2017/10/screenshot_20171015-0124451495471234.png?w=994"> 
 </div>
 
+
 ## "There's no such thing as a stupid question!"
 
 A person's learning career lasts an entire lifetime, whether it be within an academic institution, the workplace, or be it the myriad of experiences that help shape their personal development. In the face of the rapid progression of the world's technological marvels, it has become easier than ever to access information on a legion of topics across the globe. It is through this same wonder which has made it possible for anyone from anywhere to learn anything. Now more than ever, this idea is extremely relevant to one's learning process. Staying curious and asking questions is a foundational principle while learning as it allows for others to put the pieces of a puzzle together and make connections to how it links back with regards to other worldly enigmas. However, this capability in itself is another level of skill to acquire.
@@ -58,6 +59,7 @@ Eric Raymond says that a smart question must be both precise and informative. Th
 <div class="text-center">
   <img width="275px" class="rounded" src="https://chronicle.brightspotcdn.com/dims4/default/32f0588/2147483647/strip/true/crop/972x510+0+12/resize/1200x630!/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.us-east-1.amazonaws.com%2F89%2F26%2F429c3aa4415580a788eeb771403d%2F6538-advice-guide-main.jpg"> 
 </div>
+
 
 ## Why should we follow in these footsteps?
 The ability to ask smart questions is not only a valuable knack to have in the field of software engineering, but in various facets of growth as an indivdiual as well. The way in which a question is proposed is a major aim for improvement since it could mean the difference between receiving meaningful responses to a query, compared to the disdainful looks that a poorly written question may get. 
