@@ -29,7 +29,7 @@ To ask smart questions, it is important to be mindful of what the opposite term 
 This is an example of a [not so smart question](https://stackoverflow.com/questions/77884605/i-have-linked-the-javascript-code-to-my-html-code-but-the-script-doesnt-get-app) on StackOverflow. 
 
 ```
-# I have linked the javascript code to my html code but the script doesn't get applied
+I have linked the javascript code to my html code but the script doesn't get applied
 
 Hey I'm a complete beginner at javascript.
 
