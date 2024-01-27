@@ -21,7 +21,7 @@ Scratch is a high-level block-based visual programming language developed by the
 
 ## Game Development
 
-<div style="float: right; margin-left: 10px; max-height: 300px;">
+<div style="float: right; margin-left: 10px; max-height: 20px;">
   <img width="400px" class="rounded" src="https://raw.githubusercontent.com/k-deguz/k-deguz.github.io/main/img/scratch-game/scratch%20code%201.PNG">
 </div>
 
