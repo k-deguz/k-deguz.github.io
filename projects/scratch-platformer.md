@@ -11,8 +11,8 @@ labels:
 summary: "My team developed a platformer game on Scratch MIT that aims to help the user's character lose weight in a series of levels where the player must avoid unhealthy meal choices, instead opting for a well-balanced diet."
 ---
 
-<div class="text-center">
-  <img width="350px" class="rounded" src="https://miro.medium.com/v2/resize:fit:1400/0*FI4oCrDhbyc-HQ-Z.png">
+<div style="float: left; margin-right: 10px;">
+  <img width="250px" class="rounded" src="https://miro.medium.com/v2/resize:fit:1400/0*FI4oCrDhbyc-HQ-Z.png">
 </div>
 
 ## Where do I start?
