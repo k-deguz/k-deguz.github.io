@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/sea-network/algoritm_thinking.png
+image: img/sea-network/graph routing.png
 title: "Network of Islands"
 date: 2023
 published: true
