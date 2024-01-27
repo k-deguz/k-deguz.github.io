@@ -30,7 +30,7 @@ As per her instructions and guidance, I began to work on choosing a topic that c
 
 *Hawai’i History Day is an annually recurring competition with fairs being held in different districts and schools throughout the state. Winners of the Hawai’i District Fair would advance to Nationals for an opportunity to claim special cash prizes and scholarships.* 
 
-<div style="float: left; margin-right: 10px;">
+<div style="float: right; margin-left: 10px;">
   <img width="200px" class="rounded" src="https://raw.githubusercontent.com/k-deguz/k-deguz.github.io/main/img/hhd/leeward%20win.jpg">
 </div>
 
