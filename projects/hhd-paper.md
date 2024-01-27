@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hhd/hhd_tree.png
+image: img/hhd/hhd tree.png
 title: "Hawai'i History Day"
 date: 2017
 published: true
@@ -13,7 +13,7 @@ summary: "I participated in the 2017 Hawai'i History Day State Fair and was awar
 ---
 
 <div style="float: left; margin-right: 10px;">
-  <img width="200px" class="rounded" src="https://www.honolulumagazine.com/wp-content/uploads/data-import/22f26b84/EducationIlimaSchool1.jpg">
+  <img width="150px" class="rounded" src="https://www.honolulumagazine.com/wp-content/uploads/data-import/22f26b84/EducationIlimaSchool1.jpg">
 </div>
 
 ## Another module, another research paper...
@@ -31,7 +31,7 @@ As per her instructions and guidance, I began to work on choosing a topic that c
 *Hawai’i History Day is an annually recurring competition with fairs being held in different districts and schools throughout the state. Winners of the Hawai’i District Fair would advance to Nationals for an opportunity to claim special cash prizes and scholarships.* 
 
 <div style="float: right; margin-left: 10px;">
-  <img width="200px" class="rounded" src="https://github.com/k-deguz/k-deguz.github.io/blob/main/img/hhd/leeward%20win.jpg">
+  <img width="200px" class="rounded" src="https://raw.githubusercontent.com/k-deguz/k-deguz.github.io/main/img/hhd/leeward%20win.jpg">
 </div>
 
 One school morning, I was unexpectedly notified by my social studies teacher that she had enjoyed my paper and eventually submitted it as an entry to our school's History Day competition. She alarmingly told me that my paper had been chosen as the winning submission in the school contest with the research paper category. Subsequently, I attended the Leeward District Fair for a chance to progress to the State competition, where I won as well. Although, that was ultimately where the tour would end. Though, I wasn't able to advance to Nationals, this experience was memorable in that I got to encounter different hurdles and acquired knowledge with how to approach a task with increased levels of trials. For this, I was awarded the Hawai’i Nikkei Historical Editorial Board for my paper, and particularly for the extensive research work that was provided in the annotated bibliography section of the project. Research into Doughlass and his life, as well as the competition taught me the importance of dedication and personal reflection during each stage of the process. I wanted to win, but the blend of hurdles throughout the entire research process and competition gave me encounters that were just as valuable as winning the entire way through. 
