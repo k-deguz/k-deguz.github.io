@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hhd/hhd tree.png
+image: img/hhd/hhd_tree.png
 title: "Hawai'i History Day"
 date: 2017
 published: true
@@ -9,10 +9,10 @@ labels:
   - State Fair
   - Research
   - Competition
-    
-summary: "I participated in the 2017 Hawai'i History Day State Fair and was awarded the Hawai'i Nikkei Historical Editorial Board for my research paper. The essay detailed the inspiring life of runaway slave and iconic abolitionist, Frederick Douglass. 
 
+summary: "I participated in the 2017 Hawai'i History Day State Fair and was awarded the Hawai'i Nikkei Historical Editorial Board for my research paper. The essay detailed the inspiring life of runaway slave and iconic abolitionist, Frederick Douglass." 
 ---
+
 
 <div style="float: left; margin-right: 10px;">
   <img width="200px" class="rounded" src="https://www.honolulumagazine.com/wp-content/uploads/data-import/22f26b84/EducationIlimaSchool1.jpg">
