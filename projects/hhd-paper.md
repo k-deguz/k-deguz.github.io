@@ -9,7 +9,7 @@ labels:
   - State Fair
   - Research
   - Competition
-  
+
 summary: "I participated in the 2017 Hawai'i History Day State Fair and was awarded the Hawai'i Nikkei Historical Editorial Board for my research paper. The essay detailed the inspiring life of runaway slave and iconic abolitionist, Frederick Douglass. 
 ---
 
