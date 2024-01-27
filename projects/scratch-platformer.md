@@ -22,7 +22,7 @@ Scratch is a high-level block-based visual programming language developed by the
 ## Game Development
 
 <div style="float: right; margin-left: 10px; max-height: 400px;">
-  <img width="400px" class="rounded" style="object-fit: contain; max-height: 100%;" src="https://raw.githubusercontent.com/k-deguz/k-deguz.github.io/main/img/scratch-game/scratch%20code%201.PNG">
+  <img width="400px" class="rounded" style="object-fit: contain; max-height: 20%;" src="https://raw.githubusercontent.com/k-deguz/k-deguz.github.io/main/img/scratch-game/scratch%20code%201.PNG">
 </div>
 
 For this project, we decided to create a game that addressed the issue of an unhealthy diet. The player character is a retro sprite that appears as an overweight individual. Here, I was the lead programmer responsible for player movement and level designs. The goal of the game is to get through all ten levels of the game. This is made possible by reaching the fruits and vegetables of each level to progress through the next one. However, if the player touches a red region of a level or a junk food, they automatically fail the entire game, and would be routed back to the main menu. An image of the block code used for the player movement is attached below. 
