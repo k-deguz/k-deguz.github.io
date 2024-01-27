@@ -26,7 +26,7 @@ To ask smart questions, it is important to be mindful of what the opposite term 
 
 This is an example of a [not so smart question](https://stackoverflow.com/questions/77884605/i-have-linked-the-javascript-code-to-my-html-code-but-the-script-doesnt-get-app) on StackOverflow. 
 
-### The post has since been deleted. Here is the original entry. 
+##### The post has since been deleted. Here is the original entry. 
 
   *I have linked the javascript code to my html code, but the script doesn't get applied. Hey, I'm a complete beginner at javascript. I have generated codes for a model website that uses html, css, and javascript with chat gpt. I have properly linked my html code with css and javascript, but the effects that I anticipate from my javascript don't get applied to the html code. Can you review my code and tell me why? https://github.com/ilwoongchoi/javascripttest. above is my github repository for my model project. Thanks*
 
