@@ -34,8 +34,8 @@ This is an example of a [smart question](https://stackoverflow.com/questions/770
 
 Eric Raymond says that a smart question must be both precise and informative. The question given above is an example of this. The author of the post started by describing the goal they had in mind, as well as what steps they have taken so far in order to get to this point of their inquiry. Furthermore, they include their progress and thought process concerning the code of their program. Although brief, the user was able to discuss their problem explicitly and was able to generate several replies that help answer their question. Notably, the post includes a follow-up note, which aligns with Raymond's advice on his article. 
 
-<div>
-  <img width="300px" class="rounded" src="https://chronicle.brightspotcdn.com/dims4/default/32f0588/2147483647/strip/true/crop/972x510+0+12/resize/1200x630!/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.us-east-1.amazonaws.com%2F89%2F26%2F429c3aa4415580a788eeb771403d%2F6538-advice-guide-main.jpg" style="float: right;"> 
+<div style="float: right; margin-left: 10px;">
+  <img width="300px" class="rounded" src="https://chronicle.brightspotcdn.com/dims4/default/32f0588/2147483647/strip/true/crop/972x510+0+12/resize/1200x630!/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.us-east-1.amazonaws.com%2F89%2F26%2F429c3aa4415580a788eeb771403d%2F6538-advice-guide-main.jpg"> 
 </div>
 
 ## Why should we follow in these footsteps?
