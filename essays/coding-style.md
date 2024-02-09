@@ -11,7 +11,9 @@ labels:
   - Coding Standards
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="https://cloudfour.com/wp-content/uploads/2021/06/linting.png">
+<div style="float: right; margin-left: 10px;">
+  <img width="300px" class="rounded" src="https://cloudfour.com/wp-content/uploads/2021/06/linting.png"> 
+</div>
 
 ## A trivial perspective
 Coding standards are a double-edged sword, offering a sense of conformity for better readability and consistency across different programs, while to others, it may seem like a thorn in the side. For me, using ESLint on IntelliJ did not pose too much of a problem. I found the system simple to follow as it would check the current style of the code I had written so far and indicate what errors I made, major or minor. Although, at first, it did seem a little unpleasant that it would point out tiny details that did not affect the code's functionality. However, further experiences with ESLint as a coding standard have given me a more nuanced perspective regarding its significance in both a personal and professional setting.  
