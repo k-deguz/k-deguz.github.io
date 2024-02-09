@@ -4,7 +4,7 @@ type: essay
 title: "Conforming to a Standard"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-07
-published: false
+published: true
 labels:
   - ESLint
   - IntelliJ
