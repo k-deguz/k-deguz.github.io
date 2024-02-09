@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Conforming to a Standard"
+title: "Are Coding Standards Necessary?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-07
 published: true
