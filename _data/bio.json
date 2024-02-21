@@ -7,7 +7,7 @@
     "phone": "808-333-4444",
     "website": "https://k-deguz.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": { "address": "91-1160 Kamakana St", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "k-deguz", "url": "http://github.com/k-deguz" },
       { "network": "linkedin", "username": "kdeguz", "url": "http://linkedin.com/in/kenneth-de-guzman-6768282a9" }
@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": [ "C", "Java", "Javascript", "HTML", "CSS" ]
     },
     {
       "name": "Toolsets/OS",
