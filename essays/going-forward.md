@@ -25,7 +25,7 @@ In a small district in the Philippines, many diligent and tenacious people work 
 
 Although I was taking different courses in civil engineering, I took an introductory class to CS during my sophomore year. My decision was simply out of curiosity and a desire to get a glimpse of what game development entails. I was intrigued. As the class rolled on, my passion for programming continued to spark. Subconsciously, I started to pay more attention to my CS assignments than my engineering tasks. Things were going well. Maybe too much so. In March 2020, the second semester of my junior year, progress was stifled and stagnated. The COVID-19 pandemic put the world on hold. Following this, Zoom meetings replaced the familiar learning environment of in-person classes. Technical difficulties, cameraless, micless and the blaring silence of students in virtual classes made it easier to lose focus. I convinced myself that I could do the work later and comfortably within the four walls of my bedroom. In turn, I foolishly began to lose self-discipline. Days quickly turned to years as the start of my undergraduate career would begin. 
 
-<div style="float: right; margin-left: 10px;">
+<div style="float: left; margin-right: 10px;">
   <img width="225px" class="rounded" src="https://www.b2w.tv/hubfs/Present%20and%20Future%20of%20Animation%20Where%20the%20Industry%20is%20Heading.jpg"> 
 </div>
 
