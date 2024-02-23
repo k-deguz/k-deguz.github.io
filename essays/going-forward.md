@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Fork in the Road"
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-16
+date: 2024-01-26
 published: true
 labels:
   - Learning
