@@ -27,5 +27,5 @@ Clone:
 
 Real:
 <div class="text-center">
-  <img width="1000px" class="rounded" src="https://raw.githubusercontent.com/k-deguz/k-deguz.github.io/main/img/ui-frameworks/real microsoft.PNG" style="display: inline-block;">
+  <img width="800px" class="rounded" src="https://raw.githubusercontent.com/k-deguz/k-deguz.github.io/main/img/ui-frameworks/real microsoft.PNG" style="display: inline-block;">
 </div>
