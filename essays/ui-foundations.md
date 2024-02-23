@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: ""
+title: "Boots on the Ground"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-21
 published: true
