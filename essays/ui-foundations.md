@@ -22,10 +22,10 @@ Initially, I struggled to navigate my way around using Bootstrap 5. Reading thro
 
 Clone:
 <div class="text-center">
-  <img width="300px" class="rounded" src="img/ui-framworks/microsoft clone.PNG" style="display: inline-block;">
+  <img width="300px" class="rounded" src="https://raw.githubusercontent.com/k-deguz/k-deguz.github.io/main/img/ui-framworks/microsoft clone.PNG" style="display: inline-block;">
 </div>
 
 Real:
 <div class="text-center">
-  <img width="300px" class="rounded" src="img/ui-framworks/real microsoft.PNG" style="display: inline-block;">
+  <img width="300px" class="rounded" src="https://raw.githubusercontent.com/k-deguz/k-deguz.github.io/main/img/ui-framworks/real microsoft.PNG" style="display: inline-block;">
 </div>
