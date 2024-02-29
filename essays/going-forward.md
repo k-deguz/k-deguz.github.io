@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Fork in the Road"
+title: "A Fork in the Road"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-25
 published: true
@@ -30,4 +30,4 @@ Although I was taking different courses in civil engineering, I took an introduc
 </div>
 
 ## Future endeavors 
-A memorable high school experience was enough to solidify my choice to major in ICS at UH Manoa. Although university would be a major step to earning the success I aim for, I had little motivation in the first semester. Assignments and due dates quickly went by, all while I struggled to develop momentum to catch up. I fell behind and into a narrow, bottomless pit with which I attempted to claw my way out. Fortunately, summer break came. In time, I gradually eased myself back to what we learned in the two previous semesters. However, I still catch myself falling back into old habits. When I do, I quickly realign and maintain my focus to avoid more issues. In this class, I hope to continue honing my coding abilities to secure a job in the field of computer science. 
+A memorable high school experience was enough to solidify my choice to major in ICS at UH Manoa. Although university would be a major step to earning the success I aim for, I had little motivation in the first semester. Assignments and due dates quickly went by, all while I struggled to develop momentum to catch up. I fell behind and into a narrow, bottomless pit with which I attempted to claw my way out. Fortunately, summer break came. In time, I gradually eased myself back to what we learned in the two previous semesters. However, I still catch myself falling back into old habits. When I do, I quickly realign and maintain my focus to avoid more issues. In future undertakings, I hope to continue honing my coding abilities to secure a job in the field of computer science. 
