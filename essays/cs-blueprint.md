@@ -13,7 +13,7 @@ labels:
 ## An Architectural Blueprint
 
 <div style="float: left; margin-right: 10px;">
-  <img width="300px" class="rounded" src="https://pics.craiyon.com/2023-06-16/513455ad7f7942a78a225151906b1d79.webp"> 
+  <img width="250px" class="rounded" src="https://pics.craiyon.com/2023-06-16/513455ad7f7942a78a225151906b1d79.webp"> 
 </div>
 
 Design patterns are not just a set of guidelines for structuring code, they are a powerful tool for solving recurring problems in software development. They provide a template—a set of guidelines for structuring code for various purposes. Much like a blueprint guides architects by outlining the framework, materials, and specifications for different buildings, design patterns encourage developers to be efficient by promoting code reusability and flexibility for many issues. For instance, they come in handy when creating new components for a web application. Creating different UI elements may yield a repetitive process prone to multiple errors. Instead, finding a pattern for this design helps streamline and simplify this procedure, leading to more efficient and error-free code. 
