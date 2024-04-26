@@ -25,7 +25,7 @@ The Factory pattern is a versatile tool in a developer's arsenal. It's like a co
 </div>
 
 <div style="float: left; margin-right: 10px;">
-  <img width="225px" class="rounded" src="https://raw.githubusercontent.com/k-deguz/k-deguz.github.io/main/img/design/add ingredient.PNG"> 
+  <img width="200px" class="rounded" src="https://raw.githubusercontent.com/k-deguz/k-deguz.github.io/main/img/design/add ingredient.PNG"> 
 </div>
 
 Prior to learning about design patterns, I had not realized nor recognized that I had been implementing ideas from this notion multiple times in the past. Recently, I have been working on a web application with classmates tailored to provide a platform for students to learn and share recipes while navigating the constraints of college life. In order to maximize efficiency, I learned to find and use patterns that would cut down the amount of time that I needed to think to produce different pages that used similar formats or elements. 
