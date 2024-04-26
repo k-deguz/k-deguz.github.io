@@ -12,7 +12,7 @@ labels:
 
 ## An Architectural Blueprint
 
-<img width="150px" class="rounded float-start pe-4" src="https://pics.craiyon.com/2023-06-16/513455ad7f7942a78a225151906b1d79.webp"> 
+<img width="200px" class="rounded float-start pe-4" src="https://pics.craiyon.com/2023-06-16/513455ad7f7942a78a225151906b1d79.webp"> 
 
 Design patterns are not just a set of guidelines for structuring code, they are a powerful tool for solving recurring problems in software development. They provide a template—a set of guidelines for structuring code for various purposes. Much like a blueprint guides architects by outlining the framework, materials, and specifications for different buildings, design patterns encourage developers to be efficient by promoting code reusability and flexibility for many issues. For instance, they come in handy when creating new components for a web application. Creating different UI elements may yield a repetitive process prone to multiple errors. Instead, finding a pattern for this design helps streamline and simplify this procedure, leading to more efficient and error-free code. 
 
@@ -24,10 +24,10 @@ The Factory pattern is a versatile tool in a developer's arsenal. It's like a co
   <img width="300px" class="rounded" src="https://raw.githubusercontent.com/k-deguz/k-deguz.github.io/main/img/design/add recipe.PNG">
 </div>
 
+Prior to learning about design patterns, I had not realized nor recognized that I had been implementing ideas from this notion multiple times in the past. Recently, I have been working on a web application with classmates tailored to provide a platform for students to learn and share recipes while navigating the constraints of college life. In order to maximize efficiency, I learned to find and use patterns that would cut down the amount of time that I needed to think to produce different pages that used similar formats or elements. 
+
 <div style="float: right; margin-left: 10px;">
   <img width="300px" class="rounded" src="https://raw.githubusercontent.com/k-deguz/k-deguz.github.io/main/img/design/add ingredient.PNG"> 
 </div>
-
-Prior to learning about design patterns, I had not realized nor recognized that I had been implementing ideas from this notion multiple times in the past. Recently, I have been working on a web application with classmates tailored to provide a platform for students to learn and share recipes while navigating the constraints of college life. In order to maximize efficiency, I learned to find and use patterns that would cut down the amount of time that I needed to think to produce different pages that used similar formats or elements. 
 
 For this, I frequently used the Factory pattern as many of the components for displaying pages were repetitive. Particularly, code for adding/editing a recipe or ingredient all followed an identical procedure, given that they boasted similar features. Like the design pattern suggests, I consulted this specific playbook since I knew that it worked for a one aspect of the application. As other pages warranted the same type of attribute, I figured that I could kill four birds (pages) with one stone (design pattern). 
