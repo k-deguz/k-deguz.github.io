@@ -20,7 +20,7 @@ Design patterns are not just a set of guidelines for structuring code, they are 
 
 The Factory pattern is a versatile tool in a developer's arsenal. It's like a coach's game plan, with various plays to use in different in-game situations. Similarly, the Factory pattern equips developers with a proven process for creating a variety of UI elements. Each time a new component is needed, developers can consult the playbook to determine the most suitable method, ensuring their code is adaptable and flexible. This approach encourages efficiency, adaptability, and flexibility, making developers feel more secure in their code's ability to handle different situations. 
 
-## Seasoned with Code
+## Seasoned with Code!
 
 <div style="float: right; text-align: center; margin-left: 10px;">
   <img width="300px" class="rounded" src="https://raw.githubusercontent.com/k-deguz/k-deguz.github.io/main/img/design/add recipe.PNG">
