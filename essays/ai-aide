@@ -1,0 +1,74 @@
+---
+layout: essay
+type: essay
+title: ""
+# All dates must be YYYY-MM-DD format!
+date: 2024-05-5
+published: false
+labels:
+  - Artificial Intelligence
+  - Software Development
+---
+
+### I. Introduction
+In recent years, AI has dramatic
+
+
+As the use of AI has become increasingly prevalent, the question of vulnerability strikes. Am I relying too much on AI? 
+
+### II. Personal Experience with AI:
+I have used AI in class this semester in the following areas:
+
+  1. Experience WODs e.g. E18
+        While attempting the experience WODs, I hadn't thought about using AI since I wanted to fully complete   the exercise without any external resources. When I wasn't able to finish a certain one, I would use the screencasts and follow along to work out the solution. I found that the since the videos were thorough enough to provide a solid explanation of how the code works to solve a task, using AI didn't really cross my mind. 
+
+  2. In-class Practice WODs
+        I used AI, specifically with ChatGPT ocassionally during the in-class practice WODs to get a better idea of how to fix some of the ESLint errors I would get and for formatting. With this, I usually used it for assistance with things that I didn't know how to do such as putting aligning text in the middle, or setting an image to the left/right side of the page. 
+
+  3. In-class WODs
+        Similarly, I used AI during the in-class WODs much for the same reasons as I did during the practice WODs. With this, I didn't simply feed the corresponding prompt to ChatGPT and have it do the work for me. Instead, I would initially write my code and if it wasn't working as I intended it to, I gave a general description of what I was trying to do to ChatGPT, then see what potential fixes it suggests. 
+
+  4. Essays
+        I didn't use AI at all for any of the essays that I wrote. I found that writing essays by myself gave it a personal touch and voice that an AI wouldn't emulate. 
+
+  5. Final project
+        I used ChatGPT frequently. 
+
+  6. Learning a concept / tutorial
+        I used AI at times while learning a concept or giving a tutorial. I found that it was useful in summarizing text and making different ideas simpler to understand. 
+  7. Answering a question in class or in Discord
+        I did not use AI for answering questions. 
+
+  8. Asking or answering a smart-question
+
+  9. Coding example e.g. “give an example of using Underscore .pluck”
+        I used 
+
+  10. Explaining code
+
+  11. Writing code
+
+  12. Documenting code
+
+  13. Quality assurance 
+
+  14. Other uses in ICS 314 not listed above
+
+
+### III. Impact on Learning and Understanding:
+I think that the use of AI during has had a noticeable impact on daily life and throughout my productive hours, as well as my learning experience. Ultimately, using AI has generally allowed me to save time on creating a solution and fixing other errors that I come across, such as for ESLint. However, there were moments when my reliance on AI felt like a shortcut, potentially limiting my deep understanding of the underlying concepts. I noticed that when I relied less on AI and spent more time solving problems on my own, my understanding of the material was deeper and more nuanced.
+
+### IV. Practical Applications:
+AI can be used for a lot of things. From debugging code to providing examples, AI can serve as a valuable resource for quick answers and code snippets. It can also streamline repetitive tasks and automate certain processes. This efficiency can be especially useful when working on complex projects or tight deadlines. Yet, these benefits must be weighed against the need for students to develop their own problem-solving skills and creativity. AI is a tool, but it shouldn't replace foundational learning.
+
+### V. Challenges and Opportunities:
+While AI offers great opportunities for enhancing learning, it also poses challenges. One of the primary concerns is over-reliance. If students lean too heavily on AI, they might miss out on the learning experiences that come from trial and error. Additionally, AI is not infallible; it can produce errors or outdated information, leading to confusion. There's also the issue of academic integrity, as using AI inappropriately could blur the lines between assistance and cheating.
+
+### VI. Comparative Analysis:
+Without AI, I had to rely more on my own skills, which often resulted in a longer learning process but ultimately a more satisfying one. With AI, I could quickly address roadblocks, but sometimes at the cost of a thorough understanding. This comparison underscores the need for a balanced approach—using AI to support learning without overshadowing the development of critical skills.
+
+### VII. Future Considerations:
+As AI becomes more sophisticated, its role in classrooms and other learning environments will expand. Educators and students will need to adapt, finding ways to integrate AI without compromising academic integrity or the development of essential skills. Future studies should explore best practices for incorporating AI into education, ensuring it serves as a complement to, rather than a replacement for, traditional learning methods.
+
+### VIII. Conclusion:
+In conclusion, I think that AI has the potential to significantly enhance learning experiences when used appropriately. My experiences this semester have shown that AI can be a valuable tool for solving problems, providing guidance, and streamlining tasks. However, it's crucial to strike a balance between relying on AI and cultivating independent learning. By doing so, we can leverage the benefits of AI while preserving the essential skills that come from traditional learning methods. As AI continues to play a larger role in education, it's essential to approach it with both enthusiasm and caution, ensuring it contributes to a well-rounded educational journey.
