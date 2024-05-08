@@ -18,6 +18,10 @@ In an age of information where knowledge is readily accessible, artificial intel
 
 To preface, I began to use AI tools (primarily ChatGPT) while taking university summer courses in 2023. I had briefly heard about it from a friend a few months prior, but never took the chance to use it. During that time, I took two writing-intensive classes, which required allocating a large chunk of time to plenty of reading and writing response essays. In order to be more efficient on time, I used ChatGPT to summarize the main ideas in the texts and was pleasantly surprised at how effective it was. To be sure, I gave it relatively small portions to digest, and reread what I provided to check that it had given me appropriate information. Since then, I have used and continue to use AI such as ChatGPT in many use cases, especially on the path of software development. 
 
+<div style="float: right; margin-left: 10px;">
+  <img width="225px" class="rounded" src="https://cdn.elearningindustry.com/wp-content/uploads/2023/02/shutterstock_1471320125.jpg"> 
+</div>
+
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
@@ -80,8 +84,3 @@ As the years progress, artificial intelligence will continue to play a major rol
 
 ### VIII. Conclusion:
 AI has become a topic of mixed opinions, but will resume its rapid pace of evolution and integration into our daily lives. Implementing balanced approaches to using it is key for improved use of AI within a software engineering education context. Overall, AI may be encouraged for use in the classroom, but it should not act as forgery or a mask of proficiency over authentic learning.
-
-
-<div style="float: right; margin-left: 10px;">
-  <img width="225px" class="rounded" src="https://cdn.elearningindustry.com/wp-content/uploads/2023/02/shutterstock_1471320125.jpg"> 
-</div>
