@@ -9,40 +9,42 @@ labels:
   - Artificial Intelligence
   - Software Development
 ---
+<div style="float: left; margin-right: 10px;">
+  <img width="250px" class="rounded" src="https://www.callcentrehelper.com/images/stories/2017/10/ai-man-handshake-760.png"> 
+</div>
 
 ### I. Introduction
-In recent years, AI has dramatic
-
-
-As the use of AI has become increasingly prevalent, the question of vulnerability strikes. Am I relying too much on AI? 
+In recent years, AI has dramatically changed the landscape of technology and education. It has permeated into our daily lives, from virtual assistants and recommendation algorithms to complex data analysis and automation. As the use of AI has become increasingly prevalent, questions about vulnerability and dependence are surfacing. Am I relying too much on AI? How does this reliance impact my learning and understanding? These questions are not only relevant to my personal experience but also reflect broader societal concerns about the role of AI in our lives. This essay explores my personal journey with AI in an educational context, examining the balance between using AI for assistance and fostering independent learning, and considers the broader implications of these experiences.
 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
   1. Experience WODs e.g. E18
-        While attempting the experience WODs, I hadn't thought about using AI since I wanted to fully complete   the exercise without any external resources. When I wasn't able to finish a certain one, I would use the screencasts and follow along to work out the solution. I found that the since the videos were thorough enough to provide a solid explanation of how the code works to solve a task, using AI didn't really cross my mind. 
+While attempting the experience WODs, I hadn't thought about using AI since I wanted to fully complete   the exercise without any external resources. When I wasn't able to finish a certain one, I would use the screencasts and follow along to work out the solution. I found that the since the videos were thorough enough to provide a solid explanation of how the code works to solve a task, using AI didn't really cross my mind. 
 
   2. In-class Practice WODs
-        I used AI, specifically with ChatGPT ocassionally during the in-class practice WODs to get a better idea of how to fix some of the ESLint errors I would get and for formatting. With this, I usually used it for assistance with things that I didn't know how to do such as putting aligning text in the middle, or setting an image to the left/right side of the page. 
+I used AI, specifically with ChatGPT ocassionally during the in-class practice WODs to get a better idea of how to fix some of the ESLint errors I would get and for formatting. With this, I usually used it for assistance with things that I didn't know how to do such as putting aligning text in the middle, or setting an image to the left/right side of the page. 
 
   3. In-class WODs
-        Similarly, I used AI during the in-class WODs much for the same reasons as I did during the practice WODs. With this, I didn't simply feed the corresponding prompt to ChatGPT and have it do the work for me. Instead, I would initially write my code and if it wasn't working as I intended it to, I gave a general description of what I was trying to do to ChatGPT, then see what potential fixes it suggests. 
+Similarly, I used AI during the in-class WODs much for the same reasons as I did during the practice WODs. With this, I didn't simply feed the corresponding prompt to ChatGPT and have it do the work for me. Instead, I would initially write my code and if it wasn't working as I intended it to, I gave a general description of what I was trying to do to ChatGPT, then see what potential fixes it suggests. 
 
   4. Essays
-        I didn't use AI at all for any of the essays that I wrote. I found that writing essays by myself gave it a personal touch and voice that an AI wouldn't emulate. 
+I didn't use AI at all for any of the essays that I wrote. I found that writing essays by myself gave it a personal touch and voice that an AI wouldn't emulate. 
 
   5. Final project
-        I used ChatGPT frequently. 
+I used ChatGPT frequently. 
 
   6. Learning a concept / tutorial
-        I used AI at times while learning a concept or giving a tutorial. I found that it was useful in summarizing text and making different ideas simpler to understand. 
-  7. Answering a question in class or in Discord
-        I did not use AI for answering questions. 
+I used AI at times while learning a concept or giving a tutorial. I found that it was useful in summarizing text and making different ideas simpler to understand.
+
+  7. Answering a question in class or in Discord 
+I did not use AI for answering questions. 
 
   8. Asking or answering a smart-question
+I did not use AI for this section.
 
   9. Coding example e.g. “give an example of using Underscore .pluck”
-        I used 
+        I used ChatGPT
 
   10. Explaining code
 
