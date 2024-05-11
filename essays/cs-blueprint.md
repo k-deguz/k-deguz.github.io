@@ -27,12 +27,12 @@ The Factory pattern is a versatile tool in a developer's arsenal. It's like a co
   <img width="300px" class="rounded" src="https://raw.githubusercontent.com/k-deguz/k-deguz.github.io/main/img/design/add ingredient.PNG"> 
 </div>
 
-For this, I frequently used the Factory pattern as many of the components for displaying pages were repetitive. Particularly, code for adding/listing a recipe or ingredient all followed an identical procedure, given that they boasted similar features. Like the design pattern suggests, I consulted this specific playbook since I knew that it worked for one aspect of the application. As other pages warranted the same type of attribute, I figured that I could kill four birds (pages) with one stone (design pattern). 
-
-Prior to learning about design patterns, I had not realized nor recognized that I had been implementing ideas from this notion multiple times in the past. Recently, I have been working on a web application with classmates tailored to provide a platform for students to learn and share recipes while navigating the constraints of college life. In order to maximize efficiency, I learned to find and use patterns that would cut down the amount of time that I needed to think to produce different pages that used similar formats or elements. 
-
 <div style="float: right; text-align: center; margin-left: 10px;">
   <img width="300px" class="rounded" src="https://raw.githubusercontent.com/k-deguz/k-deguz.github.io/main/img/design/recipes.PNG">
   <img width="300px" class="rounded" src="https://raw.githubusercontent.com/k-deguz/k-deguz.github.io/main/img/design/ingredients.PNG"> 
 </div>
+
+For this, I frequently used the Factory pattern as many of the components for displaying pages were repetitive. Particularly, code for adding/listing a recipe or ingredient all followed an identical procedure, given that they boasted similar features. Like the design pattern suggests, I consulted this specific playbook since I knew that it worked for one aspect of the application. As other pages warranted the same type of attribute, I figured that I could kill four birds (pages) with one stone (design pattern). 
+
+Prior to learning about design patterns, I had not realized nor recognized that I had been implementing ideas from this notion multiple times in the past. Recently, I have been working on a web application with classmates tailored to provide a platform for students to learn and share recipes while navigating the constraints of college life. In order to maximize efficiency, I learned to find and use patterns that would cut down the amount of time that I needed to think to produce different pages that used similar formats or elements. 
 
