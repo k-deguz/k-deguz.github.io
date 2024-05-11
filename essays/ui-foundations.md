@@ -12,7 +12,7 @@ labels:
   - CSS
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="https://mlcbbrbngavv.i.optimole.com/w:auto/h:auto/q:mauto/f:best/https://helio.app/wp-content/uploads/2021/12/Framework.png"> 
+<img width="200px" class="rounded float-start pe-4" src="https://media.licdn.com/dms/image/D4D12AQEhGPdbPOAo8Q/article-cover_image-shrink_720_1280/0/1701769810042?e=2147483647&v=beta&t=2F2Nt4BYyDxR5ypUW2R0C8ARBaR38M82TVZWtWUP8K4"> 
 
 ## An Essential Structure
 UI frameworks are a foundational tool for front-end web development, streamlining the process of designing responsive and visually appealing websites. As with most applications, efficiency is vital since we want more time to think about our code rather than spend it typing it out. It offers a collection of HTML and CSS-based design templates for buttons, navigation, forms, and other components to make web development faster and easier. This valuable toolkit allows developers to skip several steps compared purely to using HTML and CSS to build these applications. In much the same way, it wouldn't be ideal for civil engineers to build new projects from the ground up through sheer manual labor. Power tools and construction vehicles are available and exist in order to lighten the burden of such a colossal task. Ultimately, this library significantly reduces the amount of effort and time needed by providing pre-built components and styles. Programmers can readily access this collection in order to design the UI swiftly, with more attention brought to the top-level design and functionality. 
