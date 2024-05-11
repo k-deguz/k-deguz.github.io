@@ -22,21 +22,21 @@ The Factory pattern is a versatile tool in a developer's arsenal. It's like a co
 
 ### Seasoned with Code!
 
-<div style="float: right; text-align: center; margin-left: 10px;">
+<div style="float: right; margin-left: 10px;">
   <img width="300px" class="rounded" src="https://raw.githubusercontent.com/k-deguz/k-deguz.github.io/main/img/design/add recipe.PNG">
 </div>
 
-<div style="float: left; text-align: center; margin-right: 10px;">
+<div style="float: left; margin-right: 10px;">
   <img width="300px" class="rounded" src="https://raw.githubusercontent.com/k-deguz/k-deguz.github.io/main/img/design/add ingredient.PNG"> 
 </div>
 
 For this, I frequently used the Factory pattern as many of the components for displaying pages were repetitive. Particularly, code for adding/listing a recipe or ingredient all followed an identical procedure, given that they boasted similar features. Like the design pattern suggests, I consulted this specific playbook since I knew that it worked for one aspect of the application. As other pages warranted the same type of attribute, I figured that I could kill four birds (pages) with one stone (design pattern). 
 
-<div style="float: right; text-align: center; margin-left: 10px;">
+<div style="float: right; margin-left: 10px;">
   <img width="300px" class="rounded" src="https://raw.githubusercontent.com/k-deguz/k-deguz.github.io/main/img/design/recipes.PNG">
 </div>
 
-<div style="float: left; text-align: center; margin-right: 10px;">
+<div style="float: left; margin-right: 10px;">
   <img width="300px" class="rounded" src="https://raw.githubusercontent.com/k-deguz/k-deguz.github.io/main/img/design/ingredients.PNG"> 
 </div>
 
