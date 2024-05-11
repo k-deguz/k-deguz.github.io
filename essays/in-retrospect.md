@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "In Retrospect"
+title: "A Retrospective Outlook"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-05
 published: true
