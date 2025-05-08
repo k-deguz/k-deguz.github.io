@@ -4,7 +4,7 @@ type: project
 image: img/sea-network/graph theory.png
 title: "Network of Islands"
 date: Fall 2023
-published: true
+published: false
 labels: 
   - Algorithms
   - Weighted Graphs
