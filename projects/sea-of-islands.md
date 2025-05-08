@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/sea-network/graph theory.png
 title: "Network of Islands"
-date: 2023
+date: Fall 2023
 published: true
 labels: 
   - Algorithms

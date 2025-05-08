@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/toaster-eats/top-picks.PNG
+image: img/toaster-eats/about_us.PNG
 title: "Toaster Eats"
-date: 2024
+date: Spring 2024
 published: true
 labels:
   - Software Engineering
@@ -13,20 +13,21 @@ summary: "Our team and I created a website that allows busy college students to 
 ---
 
 <div style="float: left; margin-right: 10px;">
-  <img width="250px" class="rounded" src="https://raw.githubusercontent.com/k-deguz/k-deguz.github.io/main/img/toaster-eats/toaster_landing.png">
+  <img width="250px" class="rounded" src="img/toaster-eats/toastereats!.PNG">
 </div>
 
 ### Project Overview
-Toaster Eats was a team effort of contributions between myself and four other members within our ICS 314 class at UH Mānoa. The web application was designed to solve the issue of preoccupied college students having no viable platform to find creative recipes that fulfill their lack of resources with time, kitchen resources, cooking skills and access to grocery stores. With this, we aimed to create a functional site for users to discover new recipes or add them, along with finding ingredients and the vendors that sell them. 
+Toaster Eats was a team effort of contributions between myself and four other members within our ICS 314 course at the University of Hawaii at Mānoa. The web application was designed to solve the issue of preoccupied college students having no viable platform to find creative recipes that fulfill their lack of resources with time, kitchen resources, cooking skills and access to grocery stores. With this, we aimed to create a functional site for users to discover new recipes or add them, along with finding ingredients and the vendors that sell them. 
 
-In retrospect, Toaster Eats not only exemplified the power of software engineering in addressing real-world challenges but also underscored the transformative potential of teamwork and collaboration. It served as a testament to the boundless opportunities for innovation and impact within the field of software engineering, inspiring me to continue exploring creative solutions and making a meaningful difference in the world through technology.
+While working on this project, I took on the role of implementing the pages that lists both the ingredients and recipes that users can discover. To do this, I used a JSON file that partially contained some of the recipes and ingredients as the default data that would render when initially loading those pages, and essentially functions as our database. Logged-in users can add, delete, and edit recipes with different fields for the name, dietary restrictions, description, instructions, ingredients, as well as estimated portions. They may also filter the recipes to their own tastes with the dietary restrictions preferences tool, located at the top right-hand side of the recipes page. A feature that remains in progress is one that allows those who browse the site to favorite a recipe which will then be added to their account. 
 
+Additionally, I worked on developing two other pages: About Us and This Week's Picks. The About Us page is self-explanatory, allowing users to gain a better sense of the purpose that the web application provides and what features are available. This Week's Picks page displays three unique recipes that are curated from the database depending on their popularity from a particular week. This latter feature remains in-progress, though the ability to showcase the three recipes function as intended. 
 
 <div style="float: right; margin-right: 10px;">
-  <img width="250px" class="rounded" src="https://miro.medium.com/v2/resize:fit:1400/1*u4EBes6Muu2fy7iM8igMug.jpeg">
+  <img width="250px" class="rounded" src="img/toaster-eats/multitask.jpg">
 </div>
 
 ### A Rewarding Experience
-Embarking on the Toaster Eats project was both exhilarating and challenging. Collaborating with a diverse team of individuals brought a wealth of perspectives and ideas to the table, enriching our collective creativity and problem-solving capabilities. Through intensive brainstorming sessions, prototyping, and iterative development cycles, we transformed our vision into a tangible product that addressed real-world needs.
+Along the way, I was able to refine my JavaScript, CSS, React and Bootstrap capabilities as much of the application utilized these technologies. Embarking on this project was a valuable experience since it offered me a new perspective on a real-world application of what I have learned thus far about web development and software engineering. During this, I had the opportunity to have an environment that allowed for the cultivation of unique ideas to grow within our team setting. 
 
-Beyond the technical aspects, the Toaster Eats project provided a valuable learning experience in teamwork, communication, and leadership. Collaborating effectively with team members, delegating tasks, and resolving conflicts taught me invaluable lessons in project management and interpersonal skills. Moreover, witnessing the impact of our efforts as users engaged with our platform fueled a sense of pride and accomplishment, reaffirming the significance of our work.
+By using an Agile Project Management methodology through GitHub projects as a Kanban Board for Issue Driven Project Management (IDPM), I learned how to complete deliverables within our timeline. Moreover, project experience provided a glimpse to the action behind-the-scenes of how teams may collaborate to complete a project in a real-world development scenario. Ultimately, it allowed me to develop interpersonal skills that are vital in professional project lifecycles and the technical know-how to build something that other people can interact or use.

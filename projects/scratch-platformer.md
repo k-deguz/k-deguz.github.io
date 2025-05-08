@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/scratch-game/level 4.PNG
 title: "Scratch MIT Platformer"
-date: 2018
+date: Fall 2018
 published: true
 labels:
   - Scratch

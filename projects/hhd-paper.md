@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/hhd/hhd tree.png
 title: "Hawai'i History Day"
-date: 2017
+date: Spring 2017
 published: true
 labels:
   - State Fair
