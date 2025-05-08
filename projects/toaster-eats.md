@@ -7,7 +7,7 @@ date: 2024
 published: true
 labels:
   - Software Engineering
-  - Project Management
+  - Agile Project Management
   - Web Development
 summary: "Our team and I created a website that allows busy college students to navigate tasty meal options tailored to their constraints with time and budget. It provides users with a platform for creating and sharing recipes, with the support of nearby vendors." 
 ---
