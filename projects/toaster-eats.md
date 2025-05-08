@@ -13,7 +13,7 @@ summary: "Our team and I created a website that allows busy college students to 
 ---
 
 <div style="float: left; margin-right: 10px;">
-  <img width="250px" class="rounded" src="img/toaster-eats/toastereats!.PNG">
+  <img width="250px" class="rounded" src="/img/toaster-eats/toastereats!.PNG">
 </div>
 
 ### Project Overview
@@ -24,7 +24,7 @@ While working on this project, I took on the role of implementing the pages that
 Additionally, I worked on developing two other pages: About Us and This Week's Picks. The About Us page is self-explanatory, allowing users to gain a better sense of the purpose that the web application provides and what features are available. This Week's Picks page displays three unique recipes that are curated from the database depending on their popularity from a particular week. This latter feature remains in-progress, though the ability to showcase the three recipes function as intended. 
 
 <div style="float: right; margin-right: 10px;">
-  <img width="250px" class="rounded" src="img/toaster-eats/multitask.jpg">
+  <img width="250px" class="rounded" src="/img/toaster-eats/multitask.jpg">
 </div>
 
 ### A Rewarding Experience
