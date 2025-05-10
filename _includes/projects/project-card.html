@@ -1,21 +1,29 @@
 <div class="card mb-3">
   <div class="row g-0">
-    <div class="col-sm-6 col-md-4">
-      <img src="{{ site.baseurl }}/{{ include.page.image }}" height="225px" class="rounded-start">
+    <div class="col-sm-6 col-md-4 d-flex align-items-center justify-content-center">
+      <img
+          src="{{ site.baseurl }}/{{ include.page.image }}"
+          width="250"
+          height="250"
+          style="object-fit: contain; object-position: center; background-color: #f8f9fa;"
+          class="rounded-start">
     </div>
     <div class="col-sm-6 col-md-8">
-      <div class="card-body">
-        <h5 class="card-title">{{ include.page.title }} <small class="text-muted float-end">{{ include.page.date }}</small></h5>
+      <div class="card-body ps-1">
+        <h5 class="card-title">
+          {{ include.page.title }}
+          <small class="text-muted float-end">{{ include.page.date }}</small>
+        </h5>
         <p class="card-text">{{ include.page.summary }}</p>
         <p>
           {% for label in include.page.labels %}
-          <span style="background-color: var(--tf-pill-bg)" class="badge rounded-pill">{{ label }}</span>
+          <span class="badge rounded-pill" style="background-color: var(--tf-pill-bg)">{{ label }}</span>
           {% endfor %}
         </p>
         {% if page.projecturl %}
         <a href="{{ page.projecturl }}" class="btn btn-outline-dark">Project Site</a>
         {% else %}
-        <a href="{{ site.baseurl}}{{ include.page.url }}" class="btn btn-outline-dark">Read More</a>
+        <a href="{{ site.baseurl }}{{ include.page.url }}" class="btn btn-outline-dark">Read More</a>
         {% endif %}
       </div>
     </div>
