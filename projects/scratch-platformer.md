@@ -1,32 +1,51 @@
 ---
 layout: project
 type: project
-image: img/scratch-game/level 4.PNG
-title: "Scratch MIT Platformer"
+image: img/scratch-game/level_4.PNG
+title: "Scratch: A 2D Platformer"
 date: Fall 2018
 published: true
 labels:
-  - Scratch
-  - Platformer 
-summary: "My team developed a platformer game on Scratch MIT that aims to help the user's character lose weight in a series of levels where the player must avoid unhealthy meal choices, instead opting for a well-balanced diet."
+  - Scratch MIT
+  - Block-Based Programming
+  - Intro to CS
+summary: "Our team and I developed a simple platformer using Scratch, a high-level block-based visual programming language. The objective of the game is to traverse levels by reaching healthy foods while avoiding unhealthy meal options and other obstacles."
 ---
 
-<div style="float: right; margin-left: 10px;">
-  <img width="350px" class="rounded" src="https://raw.githack.com/k-deguz/k-deguz.github.io/main/img/scratch-game/title.PNG">
-</div>
+<figure style="float: right; margin-left: 15px; text-align: center;">
+  <img
+    width="325"
+    class="rounded"
+    src="/img/scratch-game/main_menu.PNG"
+    alt="Our game's main menu">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    Our game's main menu
+  </figcaption>
+</figure>
 
-## Where do I start?
+#### Where do I start?
 
-Scratch is a high-level block-based visual programming language developed by the MIT Media Lab and operates on a website with an educational focus for children as an introductory tool to understand code. During high school, I took a computer science class, which marked my initial experience in the world of programming. Our instructor briefly introduced us to the Scratch environment and provided us free reign over what type of deliverable we could produce with our partner for the first assignment. The task was profoundly plain: “design a game that solves a problem.” 
+During high school, I took an introductory course to Computer Science. Looking back, this one decision would ultimately shape my career path and future endeavors by thrusting me into the complex world of programming. Since I had no prior experience in writing code, I was thrilled to learn that our first project would address this issue by allowing us the opportunity to develop a game.
 
-## Game Development
+On project kickoff, our team assigned roles to determine members' responsibilities and began to familiarize ourselves with the Scratch environment. As this was my initial experience into programming, I was excited but slightly overwhelmed by the entire process of learning. This was primarily hammered in by the course format being structured as a flipped classroom. Because of this, I found it
 
+Following this, our instructor shortly briefed us with our task: “design a game that solves a problem.” Since the goal covered a broad range of topics, we were also informed that we had free rein to choose which issue to tackle and what type of game to create.
 
-For this project, we decided to create a game that addressed the issue of an unhealthy diet. The player character is a retro sprite who appears as an overweight individual. Here, I was the lead programmer responsible for player movement and level designs. The goal of the game is to get through all ten levels of the game. This is made possible by reaching the fruits and vegetables of each level to progress through the next one. However, if the player touches a red region of a level or junk food, they automatically fail the entire game and would be routed back to the main menu. An image of the block code used for the player movement is attached below. 
+#### Developing our game...
 
-<div class="text-center">
-  <img width="350px" class="rounded" src="https://raw.githubusercontent.com/k-deguz/k-deguz.github.io/main/img/scratch-game/replacement.PNG" style="display: inline-block;">
-</div>
+<figure style="float: right; margin-left: 10px; margin-top: 10px; text-align: center;">
+  <a href="/img/scratch-game/player_movement_code.PNG" target="_blank" rel="noopener">
+    <img
+      width="50"
+      class="rounded"
+      src="/img/scratch-game/player_movement_code.PNG"
+      alt="Player movement block code">
+  </a>
+  <figcaption style="font-size: 0.9em; color: #555;">
+    Block code for player movement 
+  </figcaption>
+</figure>
 
+For this project, our team and I decided to create a simple 2D platformer that addressed the issue of having an unhealthy diet. During this, my role was as the team's lead programmer with my responsibilities primarily being for player movement and level designs. To maintain and track our progress, we used a [scrum sheet](/img/scratch-game/scrum_sheet_scratch.pdf){:target="_blank" rel="noopener"}.
 
-Here is a [link](https://scratch.mit.edu/projects/248152797/) to the game. 
+The goal of the game is to complete all ten levels by reaching different types of fruits and vegetables to move to the next stage. In the event that the player touches harmful obstacles such as the red line or a junk food, they are sent back to the main menu and have to restart the game from the beginning. We initially planned to have a scoreboard feature with a ranking system based on player time to complete all the levels. Although a timer feature was implemented, it was not fully completed for the leaderboard to function. Here is a [link](https://scratch.mit.edu/projects/248152797/) to the game.

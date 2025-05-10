@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hhd/hhd tree.png
+image: img/hhd/hhd_cover.png
 title: "Hawai'i History Day"
 date: Spring 2017
 published: true
@@ -9,31 +9,80 @@ labels:
   - State Fair
   - Research
   - Competition
-summary: "I participated in the 2017 Hawai'i History Day State Fair and was awarded the Hawai'i Nikkei Historical Editorial Board for my research paper. The essay detailed the inspiring life of runaway slave and iconic abolitionist, Frederick Douglass." 
+summary: "I participated in the 2017 Hawai'i History Day State Fair and was awarded the Hawai'i Nikkei Historical Editorial Board for my research paper. It details the inspiring life of Frederick Douglass, a runaway slave who escaped to freedom and became a pivotal voice of the Abolitionist Movement."
 ---
 
-<div style="float: right; margin-left: 10px;">
-  <img width="150px" class="rounded" src="https://www.honolulumagazine.com/wp-content/uploads/data-import/22f26b84/EducationIlimaSchool1.jpg">
-</div>
+<figure style="float: right; margin-left: 10px; text-align: center;">
+  <img width="200" class="rounded" src="/img/hhd/ilima_courtyard.jpg" alt="ʻIlima Courtyard">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    ʻIlima Courtyard
+  </figcaption>
+</figure>
 
-## Another module, another research paper...
+#### Another module, another research paper...
 
-Middle school was a notably tumultuous chapter in my scholastic career, particularly made memorable by the enduring friends I made, the unruly groups of students in classes, weekly shenanigans at the courtyard, and the high volume of fights that occured just outside the walls of campus. Amid the thrilling chaos that each day awaited, a routine for all six of my classes was already established. Nothing came as a surprise. The instructors taught the material, others would listen while some didn't, small breakout groups would occasionally be assigned, we completed in-class exercises, homework was passed out, and the day would end. This all became part of the standard procedure. In light of this, I did not bat much of an eye when my social studies teacher provided us a task - another paper. 
+Middle school was a notably tumultuous chapter in my academic career, particularly made more memorable by the enduring friends I made, the unruly groups of students in classes, weekly shenanigans at the courtyard, and the high volume of fights that took place just outside the walls of campus. Amid the thrilling chaos that each day posed, I had come to expect a routine for all six of my classes. Standard expectations for much of the school day had already been established. 
 
-<div style="float: left; margin-right: 10px;">
-  <img width="200px" class="rounded" src="https://blogs.loc.gov/folklife/files/2018/01/FrederickDouglass1862_07422u-273x300.jpg">
-</div>
+Nothing came as a surprise. While our instructors would teach class material, others listened. Some didn't. We would be assigned to work in small breakout groups to discuss what we learned, complete in-class exercises, homework would be passed out, and the day would end. This was the daily procedure. Since I was accustomed to this schedule, it wasn't a major concern to learn that my social studies teacher had assigned our class... another research paper. 
 
-As per her instructions and guidance, I began to work on choosing a topic that coincided with a theme of "Taking a Stand." I became increasingly intrigued, but more so confounded on the issue of what I should write about. Cue *One Piece*. I had been a fan of the notorious Japanese manga series written by Eiichiro Oda since I was little. The story follows Luffy, a young pirate and his crew as they try to find the the One Piece - a vast treasure left behind by the Pirate King, Gold Roger. While on the high seas, the story delves into multiple instances of government oppression and historical lores of past atrocities as the protagonists visit an array of unique islands. However, [one scene](https://www.youtube.com/watch?v=cgDQgFlMxbw) from the anime served as an outstanding revelation for me as it related to the theme our teacher had given us. The narration and message from the episode stood out: "if you hurt somebody or if somebody hurts you, the same red blood will be shed." With this, I decided to tackle the poignant conflicts surrounding slavery during the 19th century, and with that unraveled a string of research into influential figures during this time. Frederick Douglass was my final ruling as his life became a symbolic representation of the oppressed; ultimately becoming the leading voice of the Abolitionist Movement. A few weeks later, I finished my essay and turned it in without much further thought. 
+<figure style="float: left; margin-right: 20px; text-align: center;">
+  <img width="200" class="rounded" src="/img/hhd/frederick_douglass.jpg" alt="Frederick Douglass">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    Frederick Douglass
+  </figcaption>
+</figure>
 
-## An Unexpected Surprise and Enlightening Experience
+She informed us that our work would be for [National History Day](https://nhd.org/en/), an education organization devoted to improving the teaching and learning of history. Its flagship event is an annual competition for students in grades 6-12 to develop research about topics in history that interest them which follow a particular concept for that year. In 2017, the theme was: _Taking a Stand in History_. 
 
-*Hawai’i History Day is an annually recurring competition with fairs being held in different districts and schools throughout the state. Winners of the Hawai’i District Fair would advance to Nationals for an opportunity to claim special cash prizes and scholarships.* 
+Note: Hawai’i History Day is an affiliate of National History Day. It is an annually recurring competition with fairs being held in different districts and schools throughout the state. Winners of the Hawai’i District Fair would advance to Nationals stage for an opportunity to claim special cash prizes and scholarships.
 
-<div style="float: right; margin-left: 10px;">
-  <img width="200px" class="rounded" src="https://raw.githubusercontent.com/k-deguz/k-deguz.github.io/main/img/hhd/leeward%20win.jpg">
-</div>
+Given her instructions and guidance, I began to work on choosing a topic. I became increasingly intrigued, but more so confounded on the issue of what I should write about. This idea eventually reached me on one morning while watching an episode of a show and having breakfast. 
 
-One school morning, I was unexpectedly notified by my social studies teacher that she had enjoyed my paper and eventually submitted it as an entry to our school's History Day competition. She alarmingly told me that my paper had been chosen as the winning submission in the school contest with the research paper category. Subsequently, I attended the Leeward District Fair for a chance to progress to the State competition, where I won as well. Although, that was ultimately where the tour would end. Though, I wasn't able to advance to Nationals, this experience was memorable in that I got to encounter different hurdles and acquired knowledge with how to approach a task with increased levels of trials. For this, I was awarded the Hawai’i Nikkei Historical Editorial Board for my paper, and particularly for the extensive research work that was provided in the annotated bibliography section of the project. Research into Doughlass and his life, as well as the competition taught me the importance of dedication and personal reflection during each stage of the process. I wanted to win, but the blend of hurdles throughout the entire research process and competition gave me encounters that were just as valuable as winning the entire way through. 
+<figure style="float: right; margin-left: 25px; text-align: center;">
+  <img width="175" class="rounded" src="/img/hhd/one_piece.jpg" alt="ʻIlima Courtyard">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    Cover of One Piece Vol. 61
+  </figcaption>
+</figure>
 
-Here is a [link](https://raw.githack.com/k-deguz/k-deguz.github.io/main/img/hhd/DEGUZMAN_KENNETH_JUNIOR_STATE_FAIR.pdf) to the essay.
+Cue *One Piece*. 
+
+The story follows Luffy, a young pirate and his crew as they try to find the the One Piece - a vast treasure left behind by the Pirate King, Gold Roger. While on the high seas, the story delves into multiple instances of government oppression and historical lores of past atrocities as the protagonists visit an array of unique islands.
+
+Up to that point, I had already been a fan of the notorious Japanese manga series written by Eiichiro Oda. While catching up to the enormous library of episodes for the anime, [one scene](https://www.youtube.com/watch?v=cgDQgFlMxbw) stuck out to me. I realized that the message embedded was particularly compelling as it was relevant to the theme for our research. The narration and dialogue from the episode stood out: "if you hurt somebody or if somebody hurts you, the same red blood will be shed." 
+
+I began looking into past influential figures that fought for equality and freedom with their abilities of speech. Ultimately, I decided to tackle the poignant conflicts surrounding slavery during the 19th century, and with that unraveled a string of research into leaders against oppression during this time. Harriet Tubman, William Lloyd Garrison, Sojourner Truth, and Lucretia Mott were among the potential choices for my paper. 
+
+In the end, I chose to write about Frederick Douglass. His life was a symbolic representation of the oppressed - later becoming the leading voice of the Abolitionist Movement during the late 19th century. After several weeks of work into research and writing, I turned in my submission without any further thought. 
+
+#### An unexpected surprise!
+
+<figure style="float: right; margin-left: 10px; text-align: center;">
+  <img width="200" class="rounded" src="/img/hhd/leeward_win.jpg" alt="Leeward District Fair award">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    Winning at the Leeward District Fair
+  </figcaption>
+</figure>
+
+One school morning, I was unexpectedly notified by my social studies teacher that she had enjoyed my paper and submitted it as an entry to our school's History Day competition. She alarmingly told me that my paper had been chosen as the winning submission in the school contest within the research paper category. 
+
+Subsequently, with additional guidance to revise parts of my essay, I attended the Leeward District Fair a few months later. There, I was fortunate enough to win once again which gave me the opportunity to move on to compete in the State Fair. Although I lost in this stage and wasn't able to advance to the Nationals, the experience as a whole was memorable and exhilarating. 
+
+<figure style="float: left; margin-right: 20px; text-align: center;">
+  <a href="/img/hhd/nikkei_award.PNG" target="_blank" rel="noopener noreferrer">
+    <img
+      width="350"
+      class="rounded"
+      src="/img/hhd/nikkei_award.PNG"
+      alt="Nikkei Award"
+    >
+  </a>
+  <figcaption style="font-size: 0.9em; color: #555;">
+    Award List
+  </figcaption>
+</figure>
+
+
+As a result, I encountered different hurdles and acquired knowledge with how to approach a task with increasing levels of difficulty. In the end, I was awarded the Hawai’i Nikkei Historical Editorial Board, particularly for my extensive research work provided in the annotated bibliography section of my paper. Research into Douglass and his life, as well as the competition taught me the importance of dedication and personal reflection during each stage of a process. Although I wanted to win at all stages, the experiences I had were just as invaluable as winning the entire thing.
+
+Here is a [link](/img/hhd/state_fair_paper.pdf){:target="_blank" rel="noopener"} to my state fair paper.

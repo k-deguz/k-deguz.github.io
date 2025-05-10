@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/sea-network/graph theory.png
+image: img/sea-network/graph_theory_cover.png
 title: "Network of Islands"
 date: Fall 2023
 published: false
