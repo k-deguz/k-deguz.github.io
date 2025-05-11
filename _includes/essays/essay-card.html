@@ -1,9 +1,13 @@
+<!-- _includes/essays/essay-card.html -->
 <div class="col-md-6 col-lg-4" xmlns="http://www.w3.org/1999/html">
   <div class="card h-100">
     <div class="card-body">
-      <h5 class="card-title">{{ include.page.title }}</h5>
-      <p class="card-text"><small class="text-muted">{{ include.page.date | date_to_string }}</small></p>
-      <p class="card-text">
+      <h5 class="card-title mb-2">{{ include.page.title }}</h5>
+      <p class="card-text mb-2">
+        <small class="text-muted">{{ include.page.date | date_to_string }}</small>
+      </p>
+
+      <p class="card-text mt-0 mb-3">
         {% assign content = include.page.content | markdownify %}
         {% assign parts = content | split: '</h4>' %}
         {% if parts.size > 1 %}
@@ -15,14 +19,23 @@
       {{ content | strip_html | truncatewords: 40 }}
       {% endif %}
       </p>
-      <p>
+
+      <p class="mb-4">
         {% for label in include.page.labels %}
-        <span style="background-color: var(--tf-pill-bg)" class="badge rounded-pill">{{ label }}</span>
+        <span style="background-color: var(--tf-pill-bg)" class="badge rounded-pill">
+            {{ label }}
+          </span>
         {% endfor %}
       </p>
     </div>
-    <div class="card-footer">
-      <div class="text-center"><a href="{% if page.essayurl %}{{ page.essayurl }}{% else %}{{ site.baseurl}}{{ include.page.url }}{% endif %}" class="btn btn-outline-dark">Read More</a></div>
+    <div class="card-footer pt-1 pb-3">
+      <div class="text-center">
+        <a
+            href="{% if page.essayurl %}{{ page.essayurl }}{% else %}{{ site.baseurl }}{{ include.page.url }}{% endif %}"
+            class="btn btn-outline-dark">
+          Read More
+        </a>
+      </div>
     </div>
   </div>
 </div>

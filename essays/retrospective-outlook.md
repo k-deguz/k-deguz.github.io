@@ -15,7 +15,7 @@ labels:
   <img width="325px" class="rounded" src="https://t4.ftcdn.net/jpg/05/60/02/91/360_F_560029138_HuyluR3MHV7Iex3G4MXDLGUIpx3Mi2Lv.jpg"> 
 </div>
 
-#### New branch...
+#### A New Branch
 An eventful semester during the spring of 2024 at UH Mānoa has lamentably ended, but not without its merits. In retrospect, this time has markedly provided me with a fundamental view of and allowed me to take one major step forward in the world of software engineering. Taking ICS 314 has offered me an enriching glimpse into principles and disciplines that I hadn't previously experienced before. Looking back, all ICS courses I've taken during my undergraduate career so far have been immensely insightful, but 314 has stood out in a notable way. For one, the final project felt like a major step into the reality of jobs within the realm of computer science, especially with regard to project management and integration of UI frameworks. With this, I learned about essential concepts that are firmly woven into the fibers of developing software.
 
 <div style="float: right; margin-left: 10px;">
