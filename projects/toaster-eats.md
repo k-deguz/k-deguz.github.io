@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/toaster-eats/about_us.PNG
+image: projects/img/toaster-eats/about_us.PNG
 title: "Toaster Eats!"
 date: Spring 2024
 published: true
@@ -11,9 +11,15 @@ labels:
   - Web Development
 summary: "Our team and I created a web application that allows busy college students to navigate tasty meal options tailored to their constraints with time and budget. It provides users with a platform for creating and sharing recipes, with the support of nearby vendors." 
 ---
+<hr>
 
-<div style="float: left; margin-right: 10px;">
-  <img width="250px" class="rounded" src="/img/toaster-eats/toastereats!.PNG">
+<!-- Padding for space between sections-->
+<div>
+    <p class="pt-1"></p>
+</div>
+
+<div style="float: left; margin-right: 20px;">
+  <img width="250px" class="rounded" src="/projects/img/toaster-eats/toastereats!.PNG">
 </div>
 
 #### Project Overview
@@ -25,8 +31,13 @@ Additionally, I worked on developing two other pages: About Us and This Week's P
 
 A GitHub.io page detailing more information regarding our team's project overview, user guide, and development history can be found [here](https://toaster-eats.github.io/).
 
-<div style="float: right; margin-left: 10px;">
-  <img width="290px" class="rounded" src="/img/toaster-eats/multitask.jpg">
+<!-- Padding for space between sections-->
+<div>
+    <p class="pt-1"></p>
+</div>
+
+<div style="float: right; margin-left: 20px; padding-top: 30px;">
+  <img width="270px" class="rounded" src="/projects/img/toaster-eats/multitask.jpg">
 </div>
 
 #### An Insightful Experience
