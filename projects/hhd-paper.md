@@ -7,7 +7,7 @@ date: Spring 2017
 published: true
 labels:
   - State Fair
-  - Research
+  - Research Paper
   - Competition
 summary: "I participated in the 2017 Hawai'i History Day State Fair and was awarded the Hawai'i Nikkei Historical Editorial Board for my research paper. It details the inspiring life of Frederick Douglass, a runaway slave who escaped to freedom and became a pivotal voice of the Abolitionist Movement."
 ---

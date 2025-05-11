@@ -13,7 +13,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="https://i.pinimg.com/736x/e6/87/72/e68772822165e902a22402bb198b7719.jpg"> 
 
-### Moving onward? 
+#### Moving onward? 
 Growing up, I developed a mannerism of gaining interests and hobbies with many things, often attempting to improve on them by putting in the effort to practice. A simple two-step cycle: Learn, practice, repeat. However, there's a limit to the number of items on a plate before a person gives in to the sensation of being full. I've retained some of these passions, while others have been dropped and forgotten along the path of time. As a child, I had a passion for building with LEGOs. I enjoyed creating things. However, it wasn't only the variety of bricks, figures, and sets that could be configured that gave me happiness. I liked the sense of accomplishment and pride that came with my creations. Looking back now, they were most likely not that impressive, but the joy on my parents' faces once I had completed them gave me all the priceless satisfaction I needed. As I grew older and the significance of academia became increasingly apparent, I knew I needed to have an ultimate goal - I strived to become… a civil engineer. 
 
 <div style="float: right; margin-left: 10px;">

@@ -6,8 +6,8 @@ title: "Toaster Eats!"
 date: Spring 2024
 published: true
 labels:
-  - Software Engineering
   - Agile Project Management
+  - Recipe Navigation
   - Web Development
 summary: "Our team and I created a web application that allows busy college students to navigate tasty meal options tailored to their constraints with time and budget. It provides users with a platform for creating and sharing recipes, with the support of nearby vendors." 
 ---
