@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://github.com/k-deguz.png",
     "email": "kdeguz@hawaii.edu",
-    "phone": "808-333-4444",
+    "phone": "",
     "website": "https://k-deguz.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
@@ -14,28 +14,29 @@
     ]
   },
   "interests": [
-    { "name": "Game Design" },
-    { "name": "Machine Learning" },
+    { "name": "Software Engineering" },
     { "name": "Web Development" },
-    { "name": "Software Engineering" }
+    { "name": "Data Analytics" },
+    { "name": "Game Design" },
+    { "name": "Machine Learning" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "Java", "Javascript", "HTML", "CSS" ]
+      "keywords": [ "C", "Java", "Javascript", "TypeScript", "SQL", "HTML", "CSS", "React", "Bootstrap 5", "Meteor", "Docker" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Git/GitHub" ]
+      "keywords": [ "Windows", "MacOS", "Git/GitHub", "Agile Project Management", "Kanban Board" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2025)",
+      "institution": "University of Hawaii at Mānoa, Honolulu, HI",
+      "area": "Computer Science (Spring, 2025)",
       "studyType": "B.S.",
       "startDate": "2021-08-23",
-      "endDate": "Present",
+      "endDate": "2025-05-17",
       "courses": [
       ]
     }
@@ -43,26 +44,21 @@
   "awards": [
     {
       "title": "Hawai'i Nikkei Historical Editorial Board",
-      "date": "2017",
+      "date": "Spring 2017",
       "awarder": "Hawai'i History Day State Fair",
-      "summary": "Awarded to students with oustanding research projects during the 2017 Hawai'i History Day State Fair. The prize-winning paper detailed the life of Frederick Douglass and his pivotal role within the Abolitionist Movement, aligning with an HHD theme of 'Taking a Stand.'"
+      "summary": "Awarded to students with oustanding research projects during the 2017 Hawai'i History Day State Fair."
     },
     {
       "title": "Dean's List",
-      "date": "2021-Present",
-      "awarder": "University of Hawai'i at Manoa",
+      "date": "Fall 2021, Spring 2022, Fall 2023",
+      "awarder": "University of Hawai'i at Mānoa",
       "summary": "Undergraduate students are awarded the Dean's List distinction if they earn a grade point average of 3.50 or higher during a semester with 12+ credits."
     },
      {
       "title": "Academic Honors, Summa Cum Laude",
-      "date": "2017-2021",
+      "date": "2021",
       "awarder": "James Campbell High School",
       "summary": "Honors Recognition Certificate awarded to students who achieved the requirements for a High School diploma with a cumulative GPA of 3.80 or higher."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
     }
   ]
 }
