@@ -3,12 +3,13 @@ layout: project
 type: project
 image: projects/img/toaster-eats/about_us.PNG
 title: "Toaster Eats!"
-date: Spring 2024
+date: 2024
 published: true
 labels:
   - Agile Project Management
   - Recipe Navigation
   - Web Development
+  - JavaScript
 summary: "Our team and I created a web application that allows busy college students to navigate tasty meal options tailored to their constraints with time and budget. It provides users with a platform for creating and sharing recipes, with the support of nearby vendors." 
 ---
 <hr>
@@ -18,9 +19,12 @@ summary: "Our team and I created a web application that allows busy college stud
     <p class="pt-1"></p>
 </div>
 
-<div style="float: left; margin-right: 20px;">
-  <img width="250px" class="rounded" src="/projects/img/toaster-eats/toastereats!.PNG">
-</div>
+<figure style="float: left; margin-right: 23px; text-align: center; padding-top: 5px">
+  <img width="250" class="rounded" src="/projects/img/toaster-eats/toastereats!.PNG" alt="Recipes page">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    Our recipes page
+  </figcaption>
+</figure>
 
 #### Project Overview
 Toaster Eats! was a team effort of contributions between myself and four other members within our ICS 314 course at the University of Hawaii at Mānoa. The web application was designed to solve the issue of preoccupied college students having no viable platform to find creative recipes that fulfill their lack of resources with time, kitchen resources, cooking skills and access to grocery stores. With this, we aimed to create a functional site for users to discover new recipes or add them, along with finding ingredients and the vendors that sell them. 

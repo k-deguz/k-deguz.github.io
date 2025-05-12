@@ -3,7 +3,7 @@ layout: project
 type: project
 image: projects/img/hhd/hhd_cover.png
 title: "Hawai'i History Day"
-date: Spring 2017
+date: 2017
 published: true
 labels:
   - State Fair
@@ -26,7 +26,6 @@ summary: "I participated in the 2017 Hawai'i History Day State Fair and was awar
 </figure>
 
 #### Another module, another research paper...
-
 Middle school was a notably tumultuous chapter in my academic career, particularly made more memorable by the enduring friends I made, the unruly groups of students in classes, weekly shenanigans at the courtyard, and the high volume of fights that took place just outside the walls of campus. Amid the thrilling chaos that each day posed, I had come to expect a routine for all six of my classes. Standard expectations for much of the school day had already been established. 
 
 Nothing came as a surprise. While our instructors would teach class material, others listened. Some didn't. We would be assigned to work in small breakout groups to discuss what we learned, complete in-class exercises, homework would be passed out, and the day would end. This was the daily procedure. Since I was accustomed to this schedule, it wasn't a major concern to learn that my social studies teacher had assigned our class... another research paper. 

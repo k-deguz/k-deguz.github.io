@@ -3,11 +3,11 @@ layout: project
 type: project
 image: 
 title: "Kālā Forecast"
-date: Spring 2025
-published: false
+date: 2025
+published: true
 labels:
-  - Web Development
-  - JavaScript
+  - Agile Project Management
   - Full-Stack Development
+  - JavaScript
 summary:  
 ---

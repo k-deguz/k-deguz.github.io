@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: projects/img/scratch-game/level_4.PNG
+image: projects/img/scratch-game/level_4_full.PNG
 title: "Scratch: A 2D Platformer"
-date: Fall 2018
+date: 2018
 published: true
 labels:
   - Scratch MIT
   - Game Development
   - Block-Based Programming
   - Intro to CS
-summary: "Our team and I developed a simple platformer using Scratch, a high-level block-based visual programming language. The objective of the game is to traverse levels by reaching healthy foods while avoiding unhealthy meal options and other obstacles."
+summary: "Our team and I developed a simple platformer using Scratch, a high-level, block-based visual programming language. The objective of the game is to traverse levels by reaching healthy foods while avoiding unhealthy meal options and other obstacles."
 ---
 <hr>
 
