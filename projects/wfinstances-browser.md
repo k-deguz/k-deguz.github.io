@@ -27,9 +27,10 @@ summary: During my final semester as an undergraduate at UH Mānoa, my partner a
       width="200"
       class="rounded"
       src="/projects/img/wfinstances-browser/spring_2025_ics_project_day_poster.jpg"
+      style="display: block; margin: 0 auto 0.5em;"
       alt="Spring 2025 - ICS Project Day Poster">
   </a>
-  <figcaption style="font-size: 0.9em; color: #555;">
+  <figcaption style="font-size: 0.9em; color: #555; margin-top: 0.6em;">
     Spring 2025 - ICS Project Day Poster
   </figcaption>
 </figure>
@@ -113,14 +114,4 @@ Here is the [live deployment](https://wfinstances.ics.hawaii.edu/) of the WfInst
 #### Real-World Preparation
 The overall experience and insights I acquired from this course throughout the semester allowed me to prepare for the expectations within the software development industry. Using Python scripts for handling the backend for usage metrics and TypeScript for frontend development of the usage report modal gave me a real-world application of full-stack development. It also improved my knowledge about problem-solving from a software engineering perspective and taught me how to leverage different technologies to complete a project.
 
-Additionally, I gained hands-on experience with Docker deployments and backend development by making sure that the data flow between the frontend and backend was both correct and efficient. By working directly with our REST API, I learned how to route backend data all the way to the modal component in the frontend and integrated IPInfo geolocation tracking to enrich our usage reports with precise location-based analytics. 
-
-
-
-
-
-
-
-
-
-
+Additionally, I gained hands-on experience with Docker deployments and backend development by making sure that the data flow between the frontend and backend was both correct and efficient. By working directly with our REST API, I learned how to route backend data all the way to the modal component in the frontend and integrated IPInfo geolocation tracking to elevate our usage reports with precise location-based analytics. 
