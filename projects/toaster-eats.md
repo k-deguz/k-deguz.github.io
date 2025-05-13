@@ -20,8 +20,15 @@ summary: "Our team and I created a web application that allows busy college stud
 </div>
 
 <figure style="float: left; margin-right: 23px; text-align: center; padding-top: 5px">
-  <img width="250" class="rounded" src="/projects/img/toaster-eats/toastereats!.PNG" alt="Recipes page">
-  <figcaption style="font-size: 0.9em; color: #555;">
+  <a href="/projects/img/toaster-eats/recipes_page.PNG" target="_blank" rel="noopener">
+    <img
+      width="250"
+      class="rounded"
+      src="/projects/img/toaster-eats/recipes_page.PNG"
+      style="display: block; margin: 0 auto 0.5em;"
+      alt="Our recipes page">
+  </a>
+  <figcaption style="font-size: 0.9em; color: #555; margin-top: 0.6em;">
     Our recipes page
   </figcaption>
 </figure>
