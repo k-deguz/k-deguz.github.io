@@ -3,33 +3,39 @@ layout: essay
 type: essay
 title: "Fabricated Competence?"
 # All dates must be YYYY-MM-DD format!
-date: 2024-05-05
-published: false
+date: 2024-05-04
+published: true
 labels:
   - Artificial Intelligence
   - Software Development
+  - Ethical Use
 ---
-<div style="float: left; margin-right: 10px;">
-  <img width="250px" class="rounded" src="https://www.callcentrehelper.com/images/stories/2017/10/ai-man-handshake-760.png"> 
+<!-- Padding for space between sections-->
+<div>
+    <p class="pt-1"></p>
 </div>
 
-### I. Introduction
+<div style="float: left; margin-right: 20px; padding-top: 5px;">
+  <img width="255px" class="rounded" src="/essays/img/ai-aide/ai_man_handshake.png"> 
+</div>
+
+#### I. Introduction
 In an age of information where knowledge is readily accessible, artificial intelligence has resoundingly stood as one of the most premier developments that can be used in a variety of landscapes. However, its usage has been one of modern controversy as it presents a unique, double-edged sword. That is to say, depending on how it's used, it may either significantly improve one's abilities to learn material better or it may hinder their progress severely. For one, AI plays a major role in school and higher-level learning as it is a valuable tool that assists students in finding solutions, fixing errors, or simplifying ideas that would otherwise take more time to research manually. However, the criticism within lies at the cost of blindly trusting this tool and automating it to do the work for the user instead. In turn, it raises warranted questions regarding students' legitimate competence in a particular field of study. Further inquiries lean towards sentiments of finding a balance between using AI as a complementary learning tool and the students' genuine development of critical thinking. 
 
 To preface, I began to use AI tools (primarily ChatGPT) while taking university summer courses in 2023. I had briefly heard about it from a friend a few months prior, but never took the chance to use it. During that time, I took two writing-intensive classes, which required allocating a large chunk of time to plenty of reading and writing response essays. In order to be more efficient on time, I used ChatGPT to summarize the main ideas in the texts and was pleasantly surprised at how effective it was. To be sure, I gave it relatively small portions to digest, and reread what I provided to check that it had given me appropriate information. Since then, I have used and continue to use AI such as ChatGPT in many use cases, especially on the path of software development. 
 
-<div style="float: right; margin-left: 10px;">
-  <img width="250px" class="rounded" src="https://cdn.elearningindustry.com/wp-content/uploads/2023/02/shutterstock_1471320125.jpg"> 
+<div style="float: right; margin-left: 20px; padding-top: 15px;">
+  <img width="245px" class="rounded" src="/essays/img/ai-aide/ai_class.png"> 
 </div>
 
-### II. Personal Experience with AI:
+#### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
-  1. Experience WODs e.g. E18
-  * While attempting the experience WODs, I hadn't thought about using AI since I wanted to fully complete   the exercise without any external resources. When I wasn't able to finish a certain one, I would use the screencasts and follow along to work out the solution. I found that since the videos were thorough enough to provide a solid explanation of how the code works to solve a task, using AI didn't really cross my mind. 
+  1. Experience WODs
+  * While attempting the experience WODs, I hadn't thought about using AI since I wanted to fully complete the exercise without any external resources. When I wasn't able to finish a certain one, I would use the screencasts and follow along to work out the solution. I found that since the videos were thorough enough to provide a solid explanation of how the code works to solve a task, using AI didn't really cross my mind. 
 
   2. In-class Practice WODs
-  * I used AI, specifically with ChatGPT occasionally during the in-class practice WODs to get a better idea of how to fix some of the ESLint errors I would get and for formatting. With this, I usually used it for assistance with things that I didn't know how to do. I don't remember the prompt exactly, but I provided my code and asked how I could align text in the middle, or how to set an image to the left/right side of the page. 
+  * I used AI, specifically with ChatGPT occasionally during the in-class practice WODs to get a better idea of how to fix some of the ESLint errors I would get and for formatting. I usually used it for assistance with things that I didn't know how to do. I don't remember the prompt exactly, but I provided my code and asked how I could align text in the middle, or how to set an image to the left/right side of the page. 
 
   3. In-class WODs
   * Similarly, I used AI during the in-class WODs much for the same reasons as I did during the practice WODs, but I didn't simply feed the corresponding prompt to ChatGPT and have it do the work for me. Instead, I would initially write my code and if it wasn't working as it was intended to, I gave a general description of what I was trying to do to ChatGPT. Afterwards, I would then make appropriate changes according to what it had suggested.
@@ -67,20 +73,20 @@ I have used AI in class this semester in the following areas:
   23. Other uses in ICS 314 not listed above
   * I don't have any other uses for AI that weren't already listed above. 
 
-### III. Impact on Learning and Understanding:
+#### III. Impact on Learning and Understanding:
 Personally, AI has been greatly beneficial to the development of my understanding and productivity. However, the previously aforementioned reasons for why its use remains controversial stands firm. While some use it to enhance and assist in education for learning, therein persists the unhealthy perception of simply using it not to learn, but to replace authentic knowledge-building by using AI to fabricate one's competence in something. This idea shouldn't prevail, as instead it can be used as a virtual tutor/aide who guides the student into successfully understanding content, and does not simply write it out for them. 
 
-### IV. Practical Applications:
+#### IV. Practical Applications:
 One practical application of using AI is for biometric security purposes. For instance, face recognition is one tool that can be used to better enhance security since it encourages time-efficiency and stronger authentication methods. Another practical use is found with AI robots, particularly those that automate repeated tasks such as cleaning or surveying. Robot vacuums and surveillances have existed and will continue to improve as the years go on.
 
-### V. Challenges and Opportunities:
+#### V. Challenges and Opportunities:
 Although AI provides useful benefits, challenges regarding over-reliance exist. As mentioned, with potentially greater dependency on AI in the future, there could be risks about it replacing genuine learning and improvement of abilities. Even with that, AI continues to present more advantages as it can be integrated into a majority of daily activities in our lives. Over time, it could grow and evolve to be an even more refined instrument with less ethical concerns. 
 
-### VI. Comparative Analysis:
+#### VI. Comparative Analysis:
 Traditional teaching methods are more effective than AI-enhanced approaches in the context of software engineering education since it offers a more personalized experience for students. AI can be used to enhance their understanding, but it shouldn't replace individual efforts from teachers. Ultimately, AI tools should be used to complement an instructor's way of teaching the course material instead.
 
-### VII. Future Considerations:
+#### VII. Future Considerations:
 As the years progress, artificial intelligence will continue to play a major role in software engineering education. It is a product from the minds of developers, and will continue to aid new engineers in the field. In the future, it will be integrated into a larger part of software education, but it must be used in an effective way. It will be a challenge to counter the mindset of AI being a tool for taking the easy way out. However, as AI remains, it has more room to improve with reliability and less ethical concerns surrounding it. 
 
-### VIII. Conclusion:
+#### VIII. Conclusion:
 AI has become a topic of mixed opinions, but will resume its rapid pace of evolution and integration into our daily lives. Implementing balanced approaches to using it is key for improved use of AI within a software engineering education context. Overall, AI may be encouraged for use in the classroom, but it should not act as forgery or a mask of proficiency over authentic learning.
