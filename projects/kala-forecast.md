@@ -65,5 +65,5 @@ Below the form, I added several tables that present both the immediate _stress e
     <p class="pt-1"></p>
 </div>
 
-#### A Software Engineering Perspective
-As a result, I was able to further improve my JavaScript, CSS, React and Bootstrap capabilities much like a previous project from an ICS 314 course. I was able to learn how to collaborate in Git-based workflows, using code-review etiquette and branch-management so that there were no lingering conflicts with project functionality. In the end, these experiences as a whole helped me gain an in-depth insight into the world of business software development, with a focus on bridging financial data logic and the user experience.
+#### Further Experience
+As a result, I was able to improve my JavaScript, CSS, React and Bootstrap capabilities even more much like a previous project from an ICS 314 course. I was able to learn how to collaborate in Git-based workflows, using code-review etiquette and branch-management so that there were no lingering conflicts with project functionality. Though there were some hitches in team and project management, these experiences as a whole helped me gain an in-depth insight into the world of business software development, with a focus on bridging financial data logic and the user experience.

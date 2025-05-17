@@ -16,12 +16,14 @@ labels:
     <p class="pt-1"></p>
 </div>
 
-<div style="float: left; margin-right: 20px;">
+<div style="float: left; margin-right: 20px; padding-top: 10px">
   <img width="230px" class="rounded" src="/essays/img/boots-on-the-ground/ui_frameworks.jpg"> 
 </div>
 
 #### An Essential Structure
-UI frameworks are a foundational tool for front-end web development, streamlining the process of designing responsive and visually appealing websites. As with most applications, efficiency is vital since we want more time to think about our code rather than spend it typing it out. It offers a collection of HTML and CSS-based design templates for buttons, navigation, forms, and other components to make web development faster and easier. This valuable toolkit allows developers to skip several steps compared purely to using HTML and CSS to build these applications. In much the same way, it wouldn't be ideal for civil engineers to build new projects from the ground up through sheer manual labor. Power tools and construction vehicles are available and exist in order to lighten the burden of such a colossal task. Ultimately, this library significantly reduces the amount of effort and time needed by providing pre-built components and styles. Programmers can readily access this collection in order to design the UI swiftly, with more attention brought to the top-level design and functionality. 
+UI frameworks are a foundational tool for front-end web development as it helps streamline the process of designing responsive and visually appealing websites. As with most applications, being efficient is a significant aspect since we want more time to think about our code rather than spending it with typing it out. These frameworks give a helpful collection of HTML and CSS-based design templates for buttons, navigation, forms, and other components to make web development more simple. 
+
+This valuable toolkit allows developers to skip several steps that would be required in painstakingly using only HTML and CSS for their projects. For example, it wouldn't be ideal for civil engineers to build new projects from the ground up through sheer manual labor. Power tools and construction vehicles are available and exist in order to lighten the burden of such a massive task. Ultimately, this library significantly reduces the amount of effort and time needed by providing pre-built components and styles. Programmers can readily access this collection in order to design the UI quickly, with more attention brought to the top-level design and functionality. 
 
 <!-- Padding for space between sections-->
 <div>

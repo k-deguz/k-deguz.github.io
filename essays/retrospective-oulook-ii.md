@@ -20,7 +20,7 @@ labels:
 </div>
 
 #### A Fresh Perspective
-My final semester at the University of Hawaii at Mānoa has come to end. Though busy, stressful, and overwhelming, the general takeaways I had during this time felt gratifying and exhilarating. It provided me valuable experiences and insights into real-world applications, along with the capabilities needed for a software developer in a professional setting. Along the way, taking ICS 414 was instrumental in continuing my knowledge expansion into the skills needed for improving and having better software engineering practices. 
+My final semester at the University of Hawaii at Mānoa has come to an end. Though busy, stressful, and overwhelming, the general takeaways I had during this time felt gratifying and exhilarating. It provided me with valuable experiences and insights into real-world applications, along with the capabilities needed for a software developer in a professional setting. Along the way, taking ICS 414 was instrumental in continuing my knowledge expansion into the skills needed for improving and having better software engineering practices. 
 
 <div style="float: right; margin-left: 23px; margin-bottom: 20px; padding-top: 40px">
   <img width="200px" class="rounded" src="/essays/img/retrospective-outlook-ii/spire-hawaii.png"> 

@@ -28,7 +28,7 @@ summary: "I participated in the 2017 Hawai'i History Day State Fair and was awar
 #### Another module, another research paper...
 Middle school was a notably tumultuous chapter in my academic career, particularly made more memorable by the enduring friends I made, the unruly groups of students in classes, weekly shenanigans at the courtyard, and the high volume of fights that took place just outside the walls of campus. Amid the thrilling chaos that each day posed, I had come to expect a routine for all six of my classes. Standard expectations for much of the school day had already been established. 
 
-Nothing came as a surprise. While our instructors would teach class material, others listened. Some didn't. We would be assigned to work in small breakout groups to discuss what we learned, complete in-class exercises, homework would be passed out, and the day would end. This was the daily procedure. Since I was accustomed to this schedule, it wasn't a major concern to learn that my social studies teacher had assigned our class... another research paper. 
+Nothing came as a surprise. While our instructors would teach class material, others listened. Some didn't. We would be assigned to work in small breakout groups to discuss what we learned, complete in-class exercises, homework would be passed out, and the day would end. This was the daily schedule. Since I was accustomed to this, it wasn't a major issue to learn that my social studies teacher had assigned our class... another research paper. 
 
 <figure style="float: left; margin-right: 20px; text-align: center; padding-top: 20px">
   <img width="200" class="rounded" src="/projects/img/hhd/frederick_douglass.jpg" alt="Frederick Douglass">
@@ -41,7 +41,7 @@ She informed us that our work would be for [National History Day](https://nhd.or
 
 `Note: Hawai’i History Day is an affiliate of National History Day. It is an annually recurring competition with fairs being held in different districts and schools throughout the state. Winners of the Hawai’i District Fair would advance to Nationals stage for an opportunity to claim special cash prizes and scholarships.`
 
-Given her instructions and guidance, I began to work on choosing a topic. I became increasingly intrigued, but more so confounded on the issue of what I should write about. This idea eventually reached me on one morning while watching an episode of a show and having breakfast. 
+Given her instructions and guidance, I began to work on choosing a topic. I was intrigued, but more so confounded on the issue of what I should write about. This idea eventually reached me one morning while watching a show's episode during breakfast. 
 
 <figure style="float: right; margin-left: 25px; text-align: center; padding-top: 20px">
   <img width="175" class="rounded" src="/projects/img/hhd/one_piece.jpg" alt="One Piece cover">
@@ -52,9 +52,9 @@ Given her instructions and guidance, I began to work on choosing a topic. I beca
 
 Cue ***One Piece***. 
 
-The story follows Luffy, a young pirate and his crew as they try to find the the One Piece - a vast treasure left behind by the Pirate King, Gold Roger. While on the high seas, the story delves into multiple instances of government oppression and historical lores of past atrocities as the protagonists visit an array of unique islands.
+The story follows Luffy, a young pirate and his crew as they try to find the One Piece - a vast treasure left behind by the Pirate King, Gold Roger. While on the high seas, the story delves into multiple instances of government oppression and historical lore of past atrocities as the protagonists visit an array of unique islands.
 
-Up to that point, I had already been a fan of the notorious Japanese manga series written by Eiichiro Oda. While catching up to the enormous library of episodes for the anime, [one scene](https://www.youtube.com/watch?v=cgDQgFlMxbw) stuck out to me. I realized that the message embedded was particularly compelling as it was relevant to the theme for our research. The narration and dialogue from the episode stood out: "if you hurt somebody or if somebody hurts you, the same red blood will be shed." 
+While catching up to the enormous library of episodes for the anime, [one scene](https://www.youtube.com/watch?v=cgDQgFlMxbw) stuck out to me. I realized that the message embedded was particularly compelling as it was relevant to the theme for our research. The narration and dialogue from the episode stood out: "if you hurt somebody or if somebody hurts you, the same red blood will be shed." 
 
 I began looking into past influential figures that fought for equality and freedom with their abilities of speech. Ultimately, I decided to tackle the poignant conflicts surrounding slavery during the 19th century, and with that unraveled a string of research into leaders against oppression during this time. Harriet Tubman, William Lloyd Garrison, Sojourner Truth, and Lucretia Mott were among the potential choices for my paper. 
 
@@ -86,7 +86,6 @@ Subsequently, with additional guidance to revise parts of my essay, I attended t
     Award List
   </figcaption>
 </figure>
-
 
 As a result, I encountered different hurdles and acquired knowledge with how to approach a task with increasing levels of difficulty. In the end, I was awarded the Hawai’i Nikkei Historical Editorial Board, particularly for my extensive research work provided in the annotated bibliography section of my paper. Research into Douglass and his life, as well as the competition taught me the importance of dedication and personal reflection during each stage of a process. Although I wanted to win at all stages, the experiences I had were just as invaluable as winning the entire thing.
 
