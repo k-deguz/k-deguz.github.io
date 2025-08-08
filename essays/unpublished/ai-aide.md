@@ -4,7 +4,7 @@ type: essay
 title: "Fabricated Competence?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-04
-published: true
+published: false
 labels:
   - Artificial Intelligence
   - Software Development
