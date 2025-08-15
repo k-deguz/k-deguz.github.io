@@ -1,45 +1,86 @@
 {
   "basics": {
     "name": "Kenneth de Guzman",
-    "label": "Student",
+    "label": "VICEROY Scholar |B.S CS Graduate from UH Mānoa | Interim Secret Clearance",
     "picture": "https://github.com/k-deguz.png",
     "email": "kdeguz@hawaii.edu",
     "phone": "",
     "website": "https://k-deguz.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": { "address": "", "postalCode": "", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "Aloha! I am B.S Computer Science graduate from the University of Hawaii at Mānoa with a full-stack development background. Passionate in developing software solutions to solve problems for improving ease of use and eager to meaningfully contribute to mission-critical objectives.",
+    "location": { "address": "", "city": "Ewa Beach", "region": "HI,", "postalCode": "", "countryCode": "" },
     "profiles": [
       { "network": "github", "username": "k-deguz", "url": "http://github.com/k-deguz" },
-      { "network": "linkedin", "username": "kdeguz", "url": "http://linkedin.com/in/kenneth-de-guzman-6768282a9" }
+      { "network": "linkedin", "username": "kdeguz", "url": "www.linkedin.com/in/kenneth-de-guzman" }
     ]
   },
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Web Development" },
+    { "name": "Information Technology (IT)" },
     { "name": "Data Analytics" },
-    { "name": "Game Design" },
-    { "name": "Machine Learning" }
+    { "name": "Machine Learning" },
+    { "name": "Game Design" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "Java", "Javascript", "TypeScript", "SQL", "HTML", "CSS", "React.js", "Bootstrap 5", "Meteor.js", "Docker" ]
+      "name": "Languages",
+      "keywords": [ "Javascript", "TypeScript", "PostgreSQL", "HTML", "CSS" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "Windows", "MacOS", "Git/GitHub", "Agile Project Management", "Kanban Board" ]
+      "name": "Frameworks/Libraries",
+      "keywords": [ "React.js", "Next.js", "Meteor.js", "Bootstrap", "Prisma ORM" ]
+    },
+    {
+      "name": "Databases",
+      "keywords": [ "PostgreSQL", "MySQL" ]
+    },
+    {
+      "name": "Platforms/Runtimes",
+      "keywords": [ "Node.js" ]
+    },
+    {
+      "name": "Version Control",
+      "keywords": [ "Git", "GitHub" ]
+    },
+    {
+      "name": "Containerization",
+      "keywords": [ "Docker" ]
+    },
+    {
+      "name": "Methodologies",
+      "keywords": [ "Issue-Driven Project Management (IDPM)", "Agile Project Management" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii at Mānoa, Honolulu, HI",
-      "area": "Computer Science (Spring, 2025)",
-      "studyType": "B.S.",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
       "startDate": "2021-08-23",
       "endDate": "2025-05-17",
       "courses": [
       ]
     }
+  ],
+  "work": [
+    {
+      "company": "P3I & Griffiss Institute",
+      "position": "Web Developer",
+      "websites": [
+        { "label": "", "url": "https://hawaiip3i.org/" },
+        { "label": "", "url": "https://www.griffissinstitute.org/" }
+      ],
+      "startDate": "June 2025",
+      "endDate": "July 2025",
+      "summary": "VICEORY MAVEN - Hawai'i Intern",
+      "highlights": [
+        "Assigned to the Hawaii National Guard to develop and design a software solution as a means of aggregating State and Federal sources of input into one consolidated platform for coordinating wildfire response efforts ",
+        "Collaborated in a group of 3 interns with HING mentors to develop a web application tailored to improve the operational workflow at the JOC for emergency response",
+        "Developed web app using Node.js, Prisma, PostgresSQL, Next.js, Typescript, Bootstrap, CSS as a software solution to the HING JOC’s needs",
+        "Deployed version at https://hifirescenter.org/ using DigitalOcean as the IaaS provider"
+      ]
+    }
+
   ],
   "awards": [
     {
@@ -49,7 +90,7 @@
       "summary": "Awarded to students with oustanding research projects during the 2017 Hawai'i History Day State Fair."
     },
     {
-      "title": "Dean's List",
+      "title": "Mānoa Dean's List",
       "date": "Fall 2021, Spring 2022, Fall 2023, Spring 2025",
       "awarder": "University of Hawai'i at Mānoa",
       "summary": "Undergraduate students are awarded the Dean's List distinction if they earn a grade point average of 3.50 or higher during a semester with 12+ credits."
