@@ -1,6 +1,41 @@
-<a href="{{ include.url }}" target="_blank">
-  <svg class="tf-social">
-    <use xlink:href="{{ '/img/bootstrap-icons.svg' | prepend: site.baseurl }}#{{- include.name -}}"/>
-  </svg>
-  <span>{{ include.label }}</span>
+{%- comment -%}
+Renders a social link with an icon using Bootstrap Icons (CDN).
+Inputs:
+include.url   - the href
+include.name  - icon/network name (e.g., house, envelope, github, linkedin, x)
+include.label - optional text label to show next to the icon
+{%- endcomment -%}
+
+<!-- Bootstrap Icons (CDN) -->
+<link rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+{%- assign href  = include.url   | to_s | strip -%}
+{%- assign label = include.label | to_s | strip -%}
+{%- assign name  = include.name  | to_s | downcase | strip -%}
+
+{%- comment -%}
+Map a few common aliases to actual Bootstrap Icons names.
+{%- endcomment -%}
+{%- assign bi = name -%}
+{%- if bi == "x" -%}{% assign bi = "twitter-x" %}{%- endif -%}
+{%- if bi == "stackoverflow" -%}{% assign bi = "stack-overflow" %}{%- endif -%}
+
+{%- comment -%}
+If name doesn't match a known BI glyph, fall back to a generic link icon.
+{%- endcomment -%}
+{%- assign valid = "house,envelope,github,linkedin,twitter,twitter-x,facebook,instagram,youtube,medium,stack-overflow,codepen,gitlab,globe,link" | split: "," -%}
+{%- unless valid contains bi -%}{% assign bi = "link" %}{%- endunless -%}
+
+{%- if href != "" -%}
+<a href="{{ href }}" target="_blank" rel="noopener"
+   class="text-decoration-none d-inline-flex align-items-center">
+  <i class="bi bi-{{ bi }}" aria-hidden="true" style="margin-right:.5rem;"></i>
+  {%- if label != "" -%}<span>{{ label }}</span>{%- endif -%}
 </a>
+{%- else -%}
+<span class="d-inline-flex align-items-center">
+    <i class="bi bi-{{ bi }}" aria-hidden="true" style="margin-right:.5rem;"></i>
+    {%- if label != "" -%}<span>{{ label }}</span>{%- endif -%}
+  </span>
+{%- endif -%}

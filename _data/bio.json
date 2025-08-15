@@ -7,10 +7,10 @@
     "phone": "",
     "website": "https://k-deguz.github.io",
     "summary": "Aloha! I am B.S Computer Science graduate from the University of Hawaii at Mānoa with a full-stack development background. Passionate in developing software solutions to solve problems for improving ease of use and eager to meaningfully contribute to mission-critical objectives.",
-    "location": { "address": "", "city": "Ewa Beach", "region": "HI,", "postalCode": "", "countryCode": "" },
+    "location": { "address": "", "city": "Ewa Beach", "region": "HI", "postalCode": "", "countryCode": "" },
     "profiles": [
       { "network": "github", "username": "k-deguz", "url": "http://github.com/k-deguz" },
-      { "network": "linkedin", "username": "kdeguz", "url": "www.linkedin.com/in/kenneth-de-guzman" }
+      { "network": "linkedin", "username": "kdeguz", "url": "https://www.linkedin.com/in/kenneth-de-guzman-6768282a9/" }
     ]
   },
   "interests": [
@@ -23,32 +23,16 @@
   ],
   "skills": [
     {
-      "name": "Languages",
-      "keywords": [ "Javascript", "TypeScript", "PostgreSQL", "HTML", "CSS" ]
+      "name": "Languages and Technologies",
+      "keywords": [ "TypeScript", "JavaScript", "HTML", "CSS, Node.js" ]
     },
     {
-      "name": "Frameworks/Libraries",
-      "keywords": [ "React.js", "Next.js", "Meteor.js", "Bootstrap", "Prisma ORM" ]
+      "name": "Frameworks and Databases",
+      "keywords": [ "React.js", "Next.js", "Meteor.js", "Bootstrap", "Prisma ORM | PostgreSQL", "MySQL" ]
     },
     {
-      "name": "Databases",
-      "keywords": [ "PostgreSQL", "MySQL" ]
-    },
-    {
-      "name": "Platforms/Runtimes",
-      "keywords": [ "Node.js" ]
-    },
-    {
-      "name": "Version Control",
-      "keywords": [ "Git", "GitHub" ]
-    },
-    {
-      "name": "Containerization",
-      "keywords": [ "Docker" ]
-    },
-    {
-      "name": "Methodologies",
-      "keywords": [ "Issue-Driven Project Management (IDPM)", "Agile Project Management" ]
+      "name": "DevOps & Project Practices",
+      "keywords": [ "Git", "GitHub", "Docker | Issue-Driven Project Management (IDPM), Agile Project Management", "Kanban Board" ]
     }
   ],
   "education": [
@@ -56,8 +40,8 @@
       "institution": "University of Hawaii at Mānoa, Honolulu, HI",
       "area": "Computer Science",
       "studyType": "Bachelor of Science",
-      "startDate": "2021-08-23",
-      "endDate": "2025-05-17",
+      "startDate": "August 2021",
+      "endDate": "May 2025",
       "courses": [
       ]
     }
