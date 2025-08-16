@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: projects/img/scratch-game/level_4_full.PNG
-title: "Scratch: A 2D Platformer"
+title: "A 2D Platformer using Scratch"
 date: 2018
 published: true
 labels:
