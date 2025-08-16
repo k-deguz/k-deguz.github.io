@@ -141,7 +141,26 @@ layout: home
             {% if entry.highlights %}
             <ul>
               {% for highlight in entry.highlights %}
-              <li>{{ highlight }}</li>
+              <li>
+                {% assign tokens = highlight | to_s | split: ' ' %}
+                {% for t in tokens %}
+                {% assign word = t %}
+                {% assign punct = '' %}
+                {% assign lastchar = word | slice: -1, 1 %}
+                {% if lastchar == '.' or lastchar == ',' or lastchar == ';' or lastchar == ')' or lastchar == ']' or lastchar == '!' or lastchar == '?' %}
+                {% assign punct = lastchar %}
+                {% assign len = word | size %}
+                {% assign len1 = len | minus: 1 %}
+                {% assign word = word | slice: 0, len1 %}
+                {% endif %}
+                {% if word contains 'http://' or word contains 'https://' %}
+                <a href="{{ word }}" target="_blank" rel="noopener">{{ word }}</a>{{ punct }}
+                {% else %}
+                {{ t }}
+                {% endif %}
+                {% unless forloop.last %} {% endunless %}
+                {% endfor %}
+              </li>
               {% endfor %}
             </ul>
             {% endif %}
@@ -197,7 +216,26 @@ layout: home
             {% if entry.highlights %}
             <ul>
               {% for highlight in entry.highlights %}
-              <li>{{ highlight }}</li>
+              <li>
+                {% assign tokens = highlight | to_s | split: ' ' %}
+                {% for t in tokens %}
+                {% assign word = t %}
+                {% assign punct = '' %}
+                {% assign lastchar = word | slice: -1, 1 %}
+                {% if lastchar == '.' or lastchar == ',' or lastchar == ';' or lastchar == ')' or lastchar == ']' or lastchar == '!' or lastchar == '?' %}
+                {% assign punct = lastchar %}
+                {% assign len = word | size %}
+                {% assign len1 = len | minus: 1 %}
+                {% assign word = word | slice: 0, len1 %}
+                {% endif %}
+                {% if word contains 'http://' or word contains 'https://' %}
+                <a href="{{ word }}" target="_blank" rel="noopener">{{ word }}</a>{{ punct }}
+                {% else %}
+                {{ t }}
+                {% endif %}
+                {% unless forloop.last %} {% endunless %}
+                {% endfor %}
+              </li>
               {% endfor %}
             </ul>
             {% endif %}
