@@ -23,16 +23,16 @@
   ],
   "skills": [
     {
-      "name": "Languages and Technologies",
-      "keywords": [ "TypeScript", "JavaScript", "HTML", "CSS, Node.js" ]
+      "name": "Languages & Technologies",
+      "keywords": [ "TypeScript · JavaScript · HTML · CSS | Node.js" ]
     },
     {
-      "name": "Frameworks and Databases",
-      "keywords": [ "React.js", "Next.js", "Meteor.js", "Bootstrap", "Prisma ORM | PostgreSQL", "MySQL" ]
+      "name": "Frameworks & Databases",
+      "keywords": [ "Next.js · React.js · Meteor.js · Bootstrap · Prisma ORM | PostgreSQL · MySQL" ]
     },
     {
       "name": "DevOps & Project Practices",
-      "keywords": [ "Git", "GitHub", "Docker | Issue-Driven Project Management (IDPM), Agile Project Management", "Kanban Board" ]
+      "keywords": [ "Git · GitHub · Docker · DigitalOcean | Issue-Driven Project Management · Agile Project Management · Kanban Board" ]
     }
   ],
   "education": [
