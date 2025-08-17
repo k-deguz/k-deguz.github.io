@@ -58,10 +58,11 @@
       "endDate": "July 2025",
       "summary": "VICEROY MAVEN - Hawai'i Intern",
       "highlights": [
-        "Assigned to the Hawaii National Guard to develop and design a software solution as a means of aggregating State and Federal sources of input into one consolidated platform for coordinating wildfire response efforts ",
-        "Collaborated in a group of 3 interns with HING mentors to develop a web application tailored to improve the operational workflow at the JOC for emergency response",
-        "Developed web app using Node.js, Prisma, PostgresSQL, Next.js, Typescript, Bootstrap, CSS as a software solution to the HING JOC’s needs",
-        "Deployed version at https://hifirescenter.org/ using DigitalOcean as the IaaS provider"
+        "Assigned to the Hawaii National Guard to develop and design a software solution as a means of aggregating State and Federal sources of input into one consolidated platform for coordinating wildfire response efforts within a simple common operating picture",
+        "Collaborated in a group of 3 interns with HING mentors to develop a web application tailored to improve the operational workflow at the JOC for emergency response allocation and assessing risk",
+        "Developed a web app using Node.js, Prisma ORM, PostgresSQL, Next.js, Bootstrap, CSS and TypeScript as a software solution for the HING JOC’s needs",
+        "Collaborated and planned a web app’s features based on a military command center’s needs for improved operational workflow in coordinating better response efforts for emergencies",
+        "Deployed the app at https://hifirescenter.org/ using DigitalOcean as the IaaS provider"
       ]
     }
 
