@@ -8,6 +8,7 @@ published: true
 labels:
   - Software Engineering
   - Agile Project Management
+  - Issue-Driven Project Management (IDPM)
   - Design Patterns
 ---
 

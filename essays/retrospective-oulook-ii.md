@@ -7,6 +7,7 @@ date: 2025-05-14
 published: true
 labels:
   - Agile Project Management
+  - Issue-Driven Project Management (IDPM)
   - Full-Stack Development 
   - JavaScript
 ---

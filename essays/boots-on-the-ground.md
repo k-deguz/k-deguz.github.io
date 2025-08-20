@@ -6,7 +6,7 @@ title: "Boots on the Ground!"
 date: 2024-02-21
 published: true
 labels:
-  - Bootstrap 5
+  - Bootstrap
   - HTML
   - CSS
   - UI Frameworks
