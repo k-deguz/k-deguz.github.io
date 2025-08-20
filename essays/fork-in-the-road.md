@@ -19,10 +19,10 @@ labels:
   <img width="200px" class="rounded" src="/essays/img/fork-in-the-road/walking_forward.png"> 
 </div>
 
-#### Moving onward? 
-Growing up, I had a habit of gaining interests and hobbies with lots of things. I often tried to improve on them by putting in effort and practicing. This was a simple cycle: learn, practice, repeat. An issue here is that there's a limit to the number of items on a plate before a person gives in to the sensation of being full. 
+#### Moving Onward? 
+Growing up, I had plenty of hobbies - drawing, writing stories, playing basketball and games competitively among several things. More often than not, I put effort into practicing and getting better at each of these pastimes. It became a cycle of: discovery, interest, practice, fascination. One by one these interests would slowly overtake each other and replace what hobbies I was once previously completely preoccupied by.
 
-Though I've retained some of these passions, others have been dropped and forgotten along the path of time. As a child, I had a passion for building with LEGOs. I enjoyed creating things. However, it wasn't only the variety of bricks, figures, and sets that could be configured that gave me happiness. I liked the sense of accomplishment and pride that came with my creations. Looking back now, they were most likely not that impressive, but the joy on my parents' faces once I had completed them gave me all the priceless satisfaction I needed. As I grew older and the significance of academia became increasingly apparent, I knew I needed to have an ultimate goal - I strove to become… a civil engineer. 
+As a kid, I had a passion for building with LEGOs. I enjoyed creating things. I wanted to be a civil engineer when I grew up. Looking back, it wasn't just the different varieties of bricks, figures, and building sets that gave me joy. I was most happy by the sense of accomplishment I got after completing something. In retrospect,  those LEGO builds were most likely not that impressive - but the joy of seeing my parents display my completed set of the Star Wars X-Wing Starfighter on top of our living room shelf gave me much priceless satisfaction.
 
 <!-- Padding for space between sections-->
 <div>
@@ -33,12 +33,16 @@ Though I've retained some of these passions, others have been dropped and forgot
   <img width="225px" class="rounded" src="/essays/img/fork-in-the-road/crossroad.png"> 
 </div>
 
-#### A fresh start and stagnation
-In a small Philippines district, many diligent people work tirelessly in various occupations as crowds fill the bustling streets. They finish their days in exhaustion, all while getting wages that barely pay for a week's worth of provision for themselves and their families. With years worth of savings, my family and I moved to Hawaii. I knew that success was paramount. After all, I witnessed my parents' struggles to shoulder my brother and I. I started assimilating into life in a different place with a newly acquired language. I put all my effort into getting good grades from elementary through high school and received several achievements. 
+#### A Fresh Start
+In one barangay in the Philippines, the hard-working parents of two children work tirelessly in the city as noisy crowds fill the bustling streets. Both finish their days in exhaustion, working to provide a comfortable life for themselves and their children. With years worth of their savings and efforts, they move to the island of Oahu in the state of Hawaii.
 
-Although I was taking different courses in civil engineering, I took an introductory class to CS during my sophomore year. My decision was simply out of curiosity and a desire to get a glimpse of what goes in behind the scenes of programs. I was excited to learn how programs, websites, and games were designed. It was all intriguing to me. As the class rolled on, my passion for programming continued to grow. I started to pay more attention to my CS assignments more so than my engineering coursework. Things were going well. 
+At an early age, my parents taught me the enduring value of having an education. Career success was rooted in discipline and effort. After all, I witnessed my parents' struggles and tireless days to shoulder my brother and I through our academic lives. Knowing that academia would lead me to finding important career pathways, I was motivated then, as I am now to strive for success as a means of supporting my family as they have supported me.
 
-However, in March 2020 during the second semester of my junior year, this progress was stifled and stagnated. The COVID-19 pandemic put the world on hold. Following this, Zoom meetings replaced the familiar learning environment of in-person classes. Having virtual classes on Zoom with frequent technical difficulties, no cameras and no microphones was unfamiliar territory. Being home made it easier to lose focus. I convinced myself that I could do the work later and comfortably within the four walls of my bedroom. In turn, I began to lose self-discipline. Days quickly turned to years as the start of my undergraduate career would begin. 
+Before I became an undergraduate pursuing a BS in Computer Science at UH Mānoa, I was set on becoming a civil engineer and planned to take the relevant courses for this path. But, during my second year of high school, one decision out of curiosity to sign up for an intro CS class changed my career outlook. 
+
+I was excited to learn how apps, websites, and games were made. As the class rolled on, I realized my passion for learning about computer science continued to grow. Throughout the year, I gradually started to pay more attention to my CS homework more so than my engineering assignments. 
+
+During the second semester of my junior year in March 2020, the COVID-19 pandemic put the world on hold. Subsequently, Zoom meetings replaced the familiar learning environment of in-person classes. It was an unfamiliar territory - frequent technical difficulties, students with no cameras or microphones and all assignments being completely online. I was initially overjoyed at the prospect of working from home, but it eventually made me realize that it was easier to lose focus. I convinced myself that I could do the work later and that I could comfortably do it within the four walls of my bedroom. In turn, I began to lose self-discipline and was less attentive. Days quickly turned to a year and a half as the start of my undergraduate career would begin. 
 
 <!-- Padding for space between sections-->
 <div>
@@ -49,7 +53,7 @@ However, in March 2020 during the second semester of my junior year, this progre
   <img width="240px" class="rounded" src="/essays/img/fork-in-the-road/looking_ahead.png"> 
 </div>
 
-#### Future endeavors 
-A memorable high school experience was enough to solidify my choice to major in CS at UH Mānoa. Although university would be a major step to earning the success I aimed for, I had little motivation in the first semester. Assignments and due dates quickly went by, all while I struggled to develop momentum to catch up. I fell behind and into a narrow, bottomless pit with which I attempted to claw my way out. 
+#### Future Endeavors 
+A memorable high school experience was enough to solidify my choice to major in CS at UH Mānoa. Although university would be a major step to earning the success I aimed for, I had little motivation in the first semester. Assignments and due dates went by, all while I struggled to develop momentum to catch up. I fell behind and into a narrow, seemingly-bottomless pit with which I frantically attempted to claw my way out. 
 
-Unlike high school, I found it difficult to keep my focus and thought my freshman year to be slightly overwhelming. Fortunately, summer break came. I was able to gradually ease myself back to what we learned in the two previous semesters. In future undertakings, I hope to continue honing my coding abilities to secure a job in the field of computer science. 
+Unlike high school, I found it difficult to keep my focus. Though it was just my freshman year, I was already overwhelmed. Fortunately, summer break came. Gradually, I was able to ease myself back into and improve my understanding of the previous two semesters' core content. As a future BS CS graduate, I hope to reflect back on my days as a student and have the confidence to say that I made the right choice regarding the career path I took.

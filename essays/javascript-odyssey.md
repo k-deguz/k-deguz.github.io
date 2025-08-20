@@ -20,10 +20,10 @@ labels:
     <p class="pt-1"></p>
 </div>
 
-#### Early Beginnings with CS
-Before becoming a CS major at the University of Hawaii at Mānoa, I had previously taken one CS class in high school. It gave me experience and allowed me to work on several small projects that tested my relatively limited knowledge of programming at the time. In retrospect, much of these projects featured work in which our instructor did not allow us to get acclimated with one specific programming language. Instead, he gave us projects, assigned us in groups, and simply required us to produce a solution to the problem space.
+#### Finding Career Roots
+Before I became a CS major at the University of Hawaii at Mānoa, I had previously taken just one class within the intricate world of computer science back in high school. In retrospect, the memories and experiences I developed during that time were what eventually led me to pursue this career pathway. At the time, it allowed me to work on tiny projects that tested my relatively limited knowledge of programming. 
 
-These experiences provided us an environment to work with code, but not the inner realm of how things work. For example, though I remember making a 2D platformer on Scratch, an interactive story with Python and a fitness mobile app using MIT App Inventor, it did not allow me to grasp the main components of a programming language’s syntax or semantics in an in-depth way.
+Looking back on it now, I remember how we didn't learn concepts behind creating a product, but rather how to produce an end-result. The class felt like an experimental sandbox, where we were given the tools and environment to make something - but lacked understanding behind the way things function. Though I remember making a 2D platformer using Scratch or an interactive story on Repl.it with Python, I struggled to understand why and how things worked the way they did. 
 
 <!-- Padding for space between sections-->
 <div>
@@ -35,11 +35,11 @@ These experiences provided us an environment to work with code, but not the inne
 </div>
 
 #### A New Perspective
-In the Fall semester of 2021, I began my journey as an undergraduate at UH Manoa. ICS 111 was the first CS course I took. During this time, I learned Java. It was the first language I was formally introduced to and gave me further insights into the importance of syntax. 
+In the 2021 Fall semester, I became an undergraduate at UH Mānoa and started to pursue a BS degree in Computer Science. ICS 111 was the first CS course I took and where I learned Java. It was the first language I was formally introduced to and gave me further insights into the gears behind writing code.  
 
-Learning JavaScript was interesting since I had no prior experience using it. In all this, I found that freeCodeCamp’s basic exercises helped refresh ideas from Java while also learning new features for JavaScript In comparison, I think JavaScript is simpler to read and interpret compared to other languages. The less strict structure of the language and the absent need for type declarations stood out to me since it made reading and writing code feel more fluid. 
+So far in ICS 314, I've enjoyed using JavaScript. The module offered through freeCodeCamp’s basic exercises helped refresh ideas from Java while also learning new features that are available through JS. To compare, I think JavaScript is simpler to read and interpret compared to other languages. It feels less strict in terms of language structure as the absent need for type declarations make reading and writing code feel more fluid. 
 
-From a software engineering perspective, I think that JavaScript is a great programming language, although it has drawbacks depending on where it is applied. Its syntax simplicity is a standout feature, but having a less strict structure for coding may lead to difficulties in catching errors and in computationally intensive tasks. 
+From a software engineering perspective, JavaScript is a great programming language, though its usefulness depends on where it's applied. The simple syntax is a standout feature, but having a less strict structure may make errors harder to catch in the long-run.
 
 
 <div style="float: left; margin-right: 20px;">
@@ -53,6 +53,5 @@ From a software engineering perspective, I think that JavaScript is a great prog
 </div>
 
 #### An Athletic Pedagogy
-An athletic approach in learning class content through WODs (Workout of the Day) has been beneficial for assessing what I have learned so far in our ICS 314 course. Though I have been struggling with the practice WODs, I know that establishing a rhythm and maintaining consistency will eventually lead to better success with future assessments and projects. 
+Learning class content through WODs (Workout of the Day) as an athletic approach has been beneficial for assessing what I've learned so far in ICS 314. Though I've struggled with the practice WODs, I ultimately know that establishing a sense of rhythm and maintaining consistency in this area will eventually result in greater success for future assessments and projects. Additionally, the time-constrained environment for completing in-class WODs has been stressful, but also given me the experience I need in handling pressure to find solutions quickly and more efficiently.
 
-Ultimately, the time-constrained environment has given me experience with handling pressure, but has also allowed for a way to find solutions quicker, and efficiently. I hope to see continued and improved success with this approach as the semester progresses.
